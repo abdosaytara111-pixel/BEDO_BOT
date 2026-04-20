@@ -1,2 +1,0 @@
-# BEDO_BOT
-Bote

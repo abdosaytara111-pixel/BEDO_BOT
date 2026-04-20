@@ -1,0 +1,3 @@
+highrise-bot-sdk
+aiohttp
+yt-dlp
