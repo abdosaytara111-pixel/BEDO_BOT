@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Main_Bot",
+        "room_id": "69df7d46e345ffd9be4d0f19",
+        "token": "41fb41f3b446660f8cd54677c3ebca9a3c9dbf50e66e1e3a15cb8bb6154aef4b",
+        "status": "running",
+        "force_restart": false,
+        "room_name": "مقزار روم",
+        "radio_port": 8080
+    }
+]

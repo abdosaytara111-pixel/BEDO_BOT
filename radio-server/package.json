@@ -1,0 +1,15 @@
+{
+  "name": "disco-egypt-radio",
+  "version": "1.0.0",
+  "description": "Radio streaming server for Disco Egypt Highrise bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

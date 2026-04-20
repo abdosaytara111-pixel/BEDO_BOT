@@ -1,0 +1,28 @@
+[Unit]
+Description=Highrise Bot Service
+After=network.target
+Wants=network-online.target
+
+[Service]
+# =============================================
+# غيّر المسار ده لمسار السكريبت على سيرفرك
+# مثال: /home/ubuntu/highrise_bot
+# =============================================
+WorkingDirectory=/home/ubuntu/highrise_bot
+
+# غيّر المسار ده لمسار البايثون على سيرفرك
+ExecStart=/bin/bash /home/ubuntu/highrise_bot/run_forever.sh
+
+# إعادة التشغيل التلقائي دايماً
+Restart=always
+RestartSec=5
+
+# الـ User اللي هتشغّل البوت بيه على السيرفر
+User=ubuntu
+
+# Logging
+StandardOutput=append:/home/ubuntu/highrise_bot/bot.log
+StandardError=append:/home/ubuntu/highrise_bot/bot.log
+
+[Install]
+WantedBy=multi-user.target
