@@ -1,0 +1,196 @@
+{
+  "perm_pos": {
+    "x": 1.5,
+    "y": 4.5,
+    "z": 4.5,
+    "facing": "FrontRight"
+  },
+  "admins": [],
+  "language": "english",
+  "total_tips": 2,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": [],
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 19
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 1
+    },
+    "69686a8f47e317dcce8a424c": {
+      "_VENOMWOLF": 1
+    }
+  },
+  "subscribers": [
+    "_VENOMWOLF"
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 213
+  },
+  "command_usage": {
+    "_VENOMWOLF": 42
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 42,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "50",
+    "2": "<#FFF44F>🎪 \"Backstage pass activated! See what happens behind the scenes!\" https://high.rs/room?id=685be293caab3348c349b260&invite_id=6957a8a1e48f25d02cdc8bc2"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 15,
+      "level": 3,
+      "messages": 47,
+      "time_spent": 4440
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 1,
+      "last_seen": "2026-01-25"
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "perm_pos": {
+    "x": 7.5,
+    "y": -0.0010000000474974513,
+    "z": 3.5,
+    "facing": "FrontRight"
+  },
+  "admins": [],
+  "language": "english",
+  "total_tips": 28,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {
+    "Max.bot": 1772699405,
+    "prabh_noor": 1774602063
+  },
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 19
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 1
+    },
+    "69832f94b7680f2bedcd5c65": {
+      "_inferno__": 51,
+      "_RAFAELO": 1,
+      "prabh_noor": 2,
+      "kunalxrajput1": 5,
+      "ConformistMesic": 1,
+      "UnstainedApologetic": 4
+    }
+  },
+  "subscribers": [
+    "_VENOMWOLF",
+    {
+      "id": "690ccb2ec56ef4aa4ea66c89",
+      "username": "ConformistMesic"
+    },
+    {
+      "id": "650303d0928cc27b8029444d",
+      "username": "_inferno__"
+    }
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 213,
+    "_inferno__": 1472,
+    "_RAFAELO": 17,
+    "prabh_noor": 98,
+    "kunalxrajput1": 21,
+    "UnstainedApologetic": 45
+  },
+  "command_usage": {
+    "_VENOMWOLF": 42,
+    "_inferno__": 210,
+    "prabh_noor": 1,
+    "ConformistMesic": 8,
+    "kunalxrajput1": 10,
+    "UnstainedApologetic": 1
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    },
+    {
+      "username": "_inferno__",
+      "amount": 10,
+      "time": "2026-02-25 14:15:09"
+    },
+    {
+      "username": "prabh_noor",
+      "amount": 10,
+      "time": "2026-02-25 14:31:03"
+    },
+    {
+      "username": "_inferno__",
+      "amount": 5,
+      "time": "2026-02-25 21:30:56"
+    },
+    {
+      "username": "_inferno__",
+      "amount": 1,
+      "time": "2026-02-26 15:55:04"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 42,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2,
+    "_inferno__": 267,
+    "_RAFAELO": 2,
+    "prabh_noor": 5,
+    "ConformistMesic": 9,
+    "kunalxrajput1": 11,
+    "UnstainedApologetic": 1
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF",
+    "_inferno__"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "hi welcome",
+    "2": "20"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 13,
+      "level": 3,
+      "messages": 47,
+      "time_spent": 4320
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 36,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 240
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "_inferno__": {
+      "xp": 69,
+      "level": 1,
+      "messages": 267,
+      "time_spent": 8040
+    },
+    "_RAFAELO": {
+      "xp": 10,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "kunalxrajput1": {
+      "xp": 75,
+      "level": 1,
+      "messages": 11,
+      "time_spent": 1320
+    },
+    "ConformistMesic": {
+      "xp": 55,
+      "level": 1,
+      "messages": 9,
+      "time_spent": 600
+    },
+    "UnstainedApologetic": {
+      "xp": 21,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 1080
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep",
+    "_inferno__",
+    "UnstainedApologetic"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_inferno__": {
+      "streak": 5,
+      "last_seen": "2026-02-26"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-02-23"
+    },
+    "prabh_noor": {
+      "streak": 1,
+      "last_seen": "2026-02-25"
+    },
+    "kunalxrajput1": {
+      "streak": 2,
+      "last_seen": "2026-02-26"
+    },
+    "ConformistMesic": {
+      "streak": 1,
+      "last_seen": "2026-02-25"
+    },
+    "UnstainedApologetic": {
+      "streak": 1,
+      "last_seen": "2026-02-26"
+    }
+  },
+  "saved_outfits": {
+    "1": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_dailyquest2025kireylovewatch",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_23",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "hair_front-n_malenew13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "shirt-n_earthelementgrab2020earthelementtank",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_earthelementgrab2020earthelementpants",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_pastelgothgrab2020purplelaces",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ]
+  },
+  "loop_intervals": {
+    "1": 10,
+    "2": 20
+  },
+  "vip_cost_30d": 10
+}

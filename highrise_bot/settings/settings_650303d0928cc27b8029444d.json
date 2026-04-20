@@ -1,0 +1,495 @@
+{
+  "perm_pos": {
+    "x": 3.0,
+    "y": 0.0,
+    "z": 3.5,
+    "facing": "FrontRight"
+  },
+  "admins": [
+    "_RAFAELO"
+  ],
+  "language": "english",
+  "total_tips": 2,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {},
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "ديسكو مصر",
+  "join_messages": [
+    "welcome to @to_xic_ https://high.rs/room?id=694642f094977936f78a313f&invite_id=6958a4f4cdac317262837bcf have a safe and fun 🥰"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "650303d0928cc27b8029444d": {
+      "_inferno__": 73,
+      "_RAFAELO": 4,
+      "Max.bot": 4,
+      "UnstainedApologetic": 1
+    }
+  },
+  "subscribers": [
+    {
+      "id": "650303d0928cc27b8029444d",
+      "username": "_inferno__"
+    },
+    {
+      "id": "65e0340a554943f506f3c403",
+      "username": "_RAFAELO"
+    }
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=6958a4f4cdac317262837bcf",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "welcome to @to_xic_ https://high.rs/room?id=694642f094977936f78a313f&invite_id=6958a4f4cdac317262837bcf have a safe and fun 🥰",
+  "user_times": {
+    "_RAFAELO": 0,
+    "_inferno__": 1720,
+    "Max.bot": 7
+  },
+  "command_usage": {
+    "_inferno__": 186,
+    "_RAFAELO": 8,
+    "CHIEF._": 4
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_inferno__",
+      "amount": 1,
+      "time": "2026-02-21 16:23:24"
+    },
+    {
+      "username": "_inferno__",
+      "amount": 1,
+      "time": "2026-02-23 14:21:08"
+    }
+  ],
+  "chat_stats": {
+    "_inferno__": 287,
+    "_RAFAELO": 9,
+    "Max.bot": 29,
+    "CHIEF._": 13,
+    "Findcrush.bot": 1
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF",
+    "_inferno__"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "welcome to @to_xic_ https://high.rs/room?id=694642f094977936f78a313f&invite_id=6958a4f4cdac317262837bcf have a safe and fun 🥰"
+  },
+  "loop_cooldown": 10,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 13,
+      "level": 3,
+      "messages": 47,
+      "time_spent": 4320
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "_inferno__": {
+      "xp": 140,
+      "level": 2,
+      "messages": 316,
+      "time_spent": 9600
+    },
+    "ConformistMesic": {
+      "xp": 20,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 0
+    },
+    "_RAFAELO": {
+      "xp": 5,
+      "level": 2,
+      "messages": 9,
+      "time_spent": 3720
+    },
+    "Max.bot": {
+      "xp": 145,
+      "level": 2,
+      "messages": 29,
+      "time_spent": 0
+    },
+    "CHIEF._": {
+      "xp": 69,
+      "level": 1,
+      "messages": 13,
+      "time_spent": 240
+    },
+    "UnstainedApologetic": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Findcrush.bot": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep",
+    "_inferno__"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_inferno__": {
+      "streak": 1,
+      "last_seen": "2026-02-27"
+    },
+    "ConformistMesic": {
+      "streak": 1,
+      "last_seen": "2026-02-06"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-02-07"
+    },
+    "Max.bot": {
+      "streak": 1,
+      "last_seen": "2026-02-07"
+    },
+    "UnstainedApologetic": {
+      "streak": 1,
+      "last_seen": "2026-02-27"
+    }
+  },
+  "saved_outfits": {
+    "1": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_dailyquest2025kireylovewatch",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "active_palette": -1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_23",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "active_palette": 7
+      },
+      {
+        "id": "hair_front-n_malenew13",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew13",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "shirt-n_earthelementgrab2020earthelementtank",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_earthelementgrab2020earthelementpants",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_pastelgothgrab2020purplelaces",
+        "amount": 1,
+        "active_palette": 0
+      }
+    ],
+    "2": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "active_palette": 23
+      },
+      {
+        "id": "eyebrow-n_03",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_buddypositivity2022maletopmuscle",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_room22019rose",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle39",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_starteritems2018conversewhite",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "active_palette": 29
+      },
+      {
+        "id": "nose-n_03",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "glasses-n_room32019smallshades",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_guitarteeblue",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room12019rippedpantsblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-vip_m_01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-vip_m_01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "mouth-vip_m_01",
+        "amount": 1,
+        "active_palette": 0
+      }
+    ],
+    "3": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "nose-n_basic2018newnose05",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle04",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_starteritems2019cuffedjeanswhite",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_hr4release2023fireworktattoo",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_hr4release2023glitteringblush",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "glasses-n_room32019smallshades",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_illuminatiteeblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_malenew25",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 2
+      },
+      {
+        "id": "hair_back-n_malenew25",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 2
+      },
+      {
+        "id": "mouth-basic2018whistlemouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 21
+      },
+      {
+        "id": "eye-n_hr4release2023celebrationeyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_hr4release2023chunkyshoes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "bag-n_hr4release2023coat",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ]
+  },
+  "blocked_users": []
+}

@@ -1,0 +1,2050 @@
+{
+  "perm_pos": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 2.0,
+    "facing": "FrontRight"
+  },
+  "admins": [
+    "iluvblueberrys"
+  ],
+  "language": "english",
+  "total_tips": 2,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {
+    "acebadboy": 1768723329,
+    "Max.bot": 1769962690
+  },
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 15
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 90,
+      "Radmir_56": 3,
+      "_RAFAELO": 1,
+      "iluvblueberrys": 4,
+      "kirakiriechkammm": 2,
+      "KOT_TOK21_": 1,
+      "ReadSupernova": 3,
+      "XXLharya": 1,
+      "Belochka_R1se": 2,
+      "VentilatedTwine": 2,
+      "SleeperGenuflection": 1,
+      "NAZIK12B": 1,
+      "____clown____": 1,
+      "_meow_kitti": 1,
+      "SLADKIY_SON": 1,
+      "PashuNyaa": 1,
+      "Ladora_": 1,
+      "Jester_110": 1,
+      "idontka": 1,
+      "dysanity": 1,
+      "vollus": 1,
+      "Mokke_5": 1,
+      "Zayan.khan": 1,
+      "aylin_1380": 4,
+      "lizzyisafurry31_": 1,
+      "Maan1999": 1,
+      "GravitonSubpar": 2,
+      "GsVErr": 1,
+      "m_king.88": 1,
+      "noah708": 1,
+      "omegabellami": 1,
+      "Cheli005": 2,
+      "amststar": 1,
+      "nava86": 1,
+      "Abnbat61": 1,
+      "amo_rabert_": 1,
+      "La__Barbie_flow": 1,
+      "acebadboy": 2,
+      "A3_3": 2,
+      "Seti_sti": 5,
+      "T._k_787722": 1,
+      "AMIRREZA_1284": 1,
+      "Vitamin_C3": 1,
+      "JennyInMyPantss": 1,
+      "snotik": 1,
+      "HoneyyxBunny": 1,
+      "MilkyWay904567": 1,
+      "hasti___9": 1,
+      "nana_shiz": 2,
+      "im__vida": 1,
+      "mahi_79": 1,
+      "43.04": 2,
+      "batman_160": 1,
+      "OLKAPON": 1,
+      "8.2.4": 2,
+      "kianai2": 2,
+      "sepideh_91_": 2,
+      "88.404": 1,
+      "Milen_ko": 1,
+      "PickledTailored": 1,
+      "Starboy1516": 1,
+      "5.cv": 1,
+      "Dop40": 1,
+      "Miss_Miracle": 1,
+      "rxmm1": 2,
+      "AMIR_KING_27": 1,
+      "LunaDelulu": 1,
+      "pipnguyen": 1,
+      "88.88.68": 1,
+      "chai2020": 1,
+      "Sania_60": 1,
+      "Hastryan": 1,
+      "RTT9090": 1,
+      "ShrimpLadybug": 1,
+      "Callousss": 2,
+      "Markos77": 1,
+      "MikeyArkham": 1,
+      "E7vee_": 1,
+      "elisa__99": 1,
+      "fatme_93": 1,
+      "100_67": 1,
+      "ivetastic": 2,
+      "98_998": 2,
+      "RiRi8r": 1,
+      "luna_llena4": 1,
+      "jujay14": 1,
+      "BabyKiarraa": 1,
+      "_Hinora": 1,
+      "zcgfjjn.mhdddd": 1,
+      "Onex_1": 1,
+      "JellyfishSociobiologist": 1,
+      "23._A": 1,
+      "yours.tiara": 1,
+      "jstyun": 1,
+      "98_MaTi": 1,
+      "rona_1389_14": 1,
+      "nhkg2": 1,
+      "Stephanie_Lorenz": 2,
+      "VanilaCherry": 1,
+      "Hiami__": 4,
+      "Bless81": 1,
+      "iLun_": 1,
+      "XXXZXO3am131": 2,
+      "19.166": 1,
+      "sukuna_fk4": 2,
+      "Pretty.Joslynn": 2,
+      "aniekss_xs3": 1,
+      "hosen_diad": 3,
+      "Taha_B_861": 1,
+      "amir_BAG021": 2,
+      "kaneki_fk3": 1,
+      "uttpalkibg": 1,
+      "Ainy.luv": 1,
+      "ToxiAnarchy": 1,
+      "Elina._.22": 1,
+      "SAEED_00": 1,
+      "Mikasa_sukasa": 1,
+      "garg3": 1,
+      "s_aba": 1,
+      "M.I.S.A.G.H.1": 1,
+      "NAZ2626": 3,
+      "explode_": 1,
+      "86574": 1,
+      "mahla_h_a": 1,
+      "1.9.1.4": 1,
+      "Z.705": 1,
+      "pipisycho": 1,
+      "HeavenEssence": 1,
+      "_Tsotsi_": 1,
+      "sinbohkt": 1,
+      "berry_360": 2,
+      "Spoo03": 1,
+      "diba_85": 1,
+      "UnreachedGerrymander": 1,
+      "mah_p1": 1,
+      "ZombieBatAttack": 1,
+      "hval9": 1,
+      "roz.1110": 1,
+      "aram996": 1,
+      "ZitiCosmologist": 1,
+      "S._90_.S": 1,
+      "ifryfish": 1,
+      "AMIRjkdkd": 1,
+      "Doda_S": 1,
+      "kajal52": 1,
+      "HailieJade_xo": 1,
+      "SuperSpeed2217": 1,
+      "Bonesfreak": 1,
+      "soskart": 1,
+      "_.LexX_": 1,
+      "mahdis121315": 1,
+      "amirCR7_7": 1,
+      "Ronaa4": 1,
+      "Mioko7": 1,
+      "mohadese_20": 1,
+      "Hayleerock": 1,
+      "yimbow": 1,
+      "PrincessAnecdotal": 1,
+      "XENO_04": 1,
+      "corpse_bot": 1,
+      "Fallen_angel_baby": 1,
+      "Findcrush.bot": 2,
+      "Max.bot": 1
+    }
+  },
+  "subscribers": [
+    "_RAFAELO",
+    "iluvblueberrys",
+    "Ladora_",
+    "LoveYouToTheMoonAndBack",
+    "rxmm1",
+    "5.cv",
+    "LunaDelulu",
+    "batman_160",
+    "yours.tiara",
+    "SAEED_00",
+    "_VENOMWOLF"
+  ],
+  "invite_room_id": "69281a62bef272493deb730d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 3863,
+    "_RAFAELO": 42,
+    "KOT_TOK21_": 22,
+    "kirakiriechkammm": 145,
+    "ReadSupernova": 135,
+    "XXLharya": 32,
+    "SleeperGenuflection": 121,
+    "____clown____": 44,
+    "NAZIK12B": 232,
+    "_meow_kitti": 95,
+    "PashuNyaa": 87,
+    "SLADKIY_SON": 295,
+    "Jester_110": 30,
+    "Radmir_56": 411,
+    "idontka": 47,
+    "dysanity": 86,
+    "vollus": 231,
+    "aylin_1380": 43,
+    "Zayan.khan": 200,
+    "Mokke_5": 227,
+    "Belochka_R1se": 10,
+    "GsVErr": 22,
+    "m_king.88": 55,
+    "GravitonSubpar": 89,
+    "omegabellami": 97,
+    "La__Barbie_flow": 13,
+    "Cheli005": 88,
+    "amststar": 117,
+    "MilkyWay904567": 34,
+    "sepideh_91_": 4,
+    "OLKAPON": 81,
+    "rxmm1": 260,
+    "Starboy1516": 204,
+    "pipnguyen": 74,
+    "Miss_Miracle": 209,
+    "MikeyArkham": 38,
+    "Callousss": 10,
+    "luna_llena4": 39,
+    "ShrimpLadybug": 98,
+    "5.cv": 325,
+    "AMIR_KING_27": 278,
+    "Hastryan": 154,
+    "iluvblueberrys": 4,
+    "23._A": 49,
+    "ivetastic": 14,
+    "RiRi8r": 110,
+    "amir_BAG021": 32,
+    "ToxiAnarchy": 25,
+    "zcgfjjn.mhdddd": 184,
+    "chai2020": 296,
+    "yours.tiara": 176,
+    "hosen_diad": 109,
+    "NAZ2626": 82,
+    "Mikasa_sukasa": 143,
+    "Pretty.Joslynn": 324,
+    "8.2.4": 788,
+    "iLun_": 264,
+    "jstyun": 290,
+    "aniekss_xs3": 276,
+    "_Hinora": 414,
+    "mah_p1": 65,
+    "rona_1389_14": 376,
+    "Ainy.luv": 284,
+    "ZitiCosmologist": 25,
+    "Onex_1": 485,
+    "98_MaTi": 441,
+    "HailieJade_xo": 34,
+    "kajal52": 51,
+    "M.I.S.A.G.H.1": 290,
+    "BabyKiarraa": 534,
+    "SAEED_00": 362,
+    "1.9.1.4": 295,
+    "A3_3": 342,
+    "soskart": 76,
+    "UnreachedGerrymander": 242,
+    "_Tsotsi_": 296,
+    "XENO_04": 47,
+    "Fallen_angel_baby": 141
+  },
+  "command_usage": {
+    "_VENOMWOLF": 185,
+    "_RAFAELO": 3,
+    "iluvblueberrys": 4,
+    "Ladora_": 4,
+    "VentilatedTwine": 3,
+    "T._k_787722": 1,
+    "rxmm1": 1,
+    "16.55a": 3,
+    "LunaDelulu": 1,
+    "batman_160": 3,
+    "yours.tiara": 1,
+    "SAEED_00": 2,
+    "acebadboy": 1
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 285,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2,
+    "corpse_bot": 25,
+    "_RAFAELO": 3,
+    "Radmir_56": 1,
+    "iluvblueberrys": 174,
+    "VentilatedTwine": 46,
+    "_meow_kitti": 3,
+    "SLADKIY_SON": 4,
+    "Ladora_": 70,
+    "idontka": 1,
+    "dysanity": 2,
+    "Zayan.khan": 3,
+    "m_king.88": 2,
+    "noah708": 1,
+    "acebadboy": 17,
+    "AMIRREZA_1284": 4,
+    "T._k_787722": 39,
+    "teivppvuecubet": 91,
+    "Abnbat61": 46,
+    "BABAT101": 2,
+    "batman_160": 29,
+    "16.55a": 21,
+    "OLKAPON": 3,
+    "mah_p1": 5,
+    "JennyInMyPantss": 3,
+    "HoneyyxBunny": 2,
+    "rxmm1": 10,
+    "AMIR_KING_27": 9,
+    "8.2.4": 2,
+    "helia1315": 2,
+    "RTT9090": 23,
+    "E7vee_": 3,
+    "LunaDelulu": 2,
+    "Callousss": 1,
+    "98_998": 9,
+    "Markos77": 24,
+    "fatme_93": 1,
+    "jujay14": 1,
+    "ivetastic": 6,
+    "RiRi8r": 1,
+    "yours.tiara": 1,
+    "Onex_1": 15,
+    "Bless81": 16,
+    "GravitonSubpar": 6,
+    "98_MaTi": 10,
+    "19.166": 3,
+    "Pretty.Joslynn": 1,
+    "88.404": 1,
+    "Taha_B_861": 47,
+    "SAEED_00": 9,
+    "garg3": 2,
+    "JellyfishSociobiologist": 5,
+    "A3_3": 3,
+    "1.9.1.4": 5,
+    "Elina._.22": 24,
+    "diba_85": 24,
+    "uttpalkibg": 2,
+    "M.I.S.A.G.H.1": 6,
+    "_Tsotsi_": 1,
+    "S._90_.S": 3,
+    "SuperSpeed2217": 1,
+    "XENO_04": 1,
+    "Max.bot": 80,
+    "Fallen_angel_baby": 10
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "Welcome, to enable animation, write !sub. To cancel the animation, write !stop ❤️",
+    "2": "<#FFF44F>🎪 \"Backstage pass activated! See what happens behind the scenes!\" https://high.rs/room?id=685be293caab3348c349b260&invite_id=6957a8a1e48f25d02cdc8bc2"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 120,
+      "level": 2,
+      "messages": 290,
+      "time_spent": 15840
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "corpse_bot": {
+      "xp": 125,
+      "level": 2,
+      "messages": 25,
+      "time_spent": 0
+    },
+    "_RAFAELO": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Radmir_56": {
+      "xp": 17,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 720
+    },
+    "iluvblueberrys": {
+      "xp": 124,
+      "level": 2,
+      "messages": 174,
+      "time_spent": 3240
+    },
+    "kirakiriechkammm": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "ReadSupernova": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "VentilatedTwine": {
+      "xp": 76,
+      "level": 1,
+      "messages": 46,
+      "time_spent": 2760
+    },
+    "Belochka_R1se": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "SleeperGenuflection": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "NAZIK12B": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "_meow_kitti": {
+      "xp": 17,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 240
+    },
+    "SLADKIY_SON": {
+      "xp": 24,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 240
+    },
+    "PashuNyaa": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Ladora_": {
+      "xp": 190,
+      "level": 2,
+      "messages": 70,
+      "time_spent": 2520
+    },
+    "idontka": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "dysanity": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 120
+    },
+    "vollus": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Mokke_5": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Zayan.khan": {
+      "xp": 19,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 360
+    },
+    "lizzyisafurry31_": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "m_king.88": {
+      "xp": 10,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Maan1999": {
+      "xp": 20,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 1320
+    },
+    "noah708": {
+      "xp": 25,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 1320
+    },
+    "omegabellami": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "amststar": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Abnbat61": {
+      "xp": 48,
+      "level": 1,
+      "messages": 46,
+      "time_spent": 1200
+    },
+    "amo_rabert_": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "acebadboy": {
+      "xp": 93,
+      "level": 1,
+      "messages": 17,
+      "time_spent": 600
+    },
+    "A3_3": {
+      "xp": 27,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 840
+    },
+    "Seti_sti": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "AMIRREZA_1284": {
+      "xp": 20,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 0
+    },
+    "T._k_787722": {
+      "xp": 11,
+      "level": 1,
+      "messages": 39,
+      "time_spent": 960
+    },
+    "teivppvuecubet": {
+      "xp": 271,
+      "level": 2,
+      "messages": 91,
+      "time_spent": 960
+    },
+    "BABAT101": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "batman_160": {
+      "xp": 161,
+      "level": 2,
+      "messages": 29,
+      "time_spent": 960
+    },
+    "16.55a": {
+      "xp": 111,
+      "level": 2,
+      "messages": 21,
+      "time_spent": 360
+    },
+    "OLKAPON": {
+      "xp": 17,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 120
+    },
+    "JennyInMyPantss": {
+      "xp": 19,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 360
+    },
+    "HoneyyxBunny": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 360
+    },
+    "hasti___9": {
+      "xp": 14,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 960
+    },
+    "43.04": {
+      "xp": 10,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 720
+    },
+    "mah_p1": {
+      "xp": 35,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 720
+    },
+    "LoveYouToTheMoonAndBack": {
+      "xp": 16,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 1080
+    },
+    "helia1315": {
+      "xp": 24,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 960
+    },
+    "8.2.4": {
+      "xp": 24,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 960
+    },
+    "kianai2": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "aylin_1380": {
+      "xp": 10,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 720
+    },
+    "88.404": {
+      "xp": 19,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 960
+    },
+    "Milen_ko": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "PickledTailored": {
+      "xp": 14,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 960
+    },
+    "Starboy1516": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "5.cv": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "rxmm1": {
+      "xp": 54,
+      "level": 1,
+      "messages": 10,
+      "time_spent": 240
+    },
+    "AMIR_KING_27": {
+      "xp": 49,
+      "level": 1,
+      "messages": 9,
+      "time_spent": 240
+    },
+    "Dop40": {
+      "xp": 12,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 840
+    },
+    "Miss_Miracle": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Cheli005": {
+      "xp": 12,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 840
+    },
+    "RTT9090": {
+      "xp": 125,
+      "level": 2,
+      "messages": 23,
+      "time_spent": 600
+    },
+    "E7vee_": {
+      "xp": 25,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 600
+    },
+    "LunaDelulu": {
+      "xp": 20,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 600
+    },
+    "Callousss": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "88.88.68": {
+      "xp": 10,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 720
+    },
+    "chai2020": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Sania_60": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Hastryan": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "ShrimpLadybug": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Markos77": {
+      "xp": 130,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 720
+    },
+    "elisa__99": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "fatme_93": {
+      "xp": 9,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 360
+    },
+    "100_67": {
+      "xp": 10,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 720
+    },
+    "ivetastic": {
+      "xp": 36,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 480
+    },
+    "98_998": {
+      "xp": 55,
+      "level": 1,
+      "messages": 9,
+      "time_spent": 720
+    },
+    "RiRi8r": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 240
+    },
+    "luna_llena4": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "jujay14": {
+      "xp": 9,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 360
+    },
+    "yours.tiara": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "Onex_1": {
+      "xp": 81,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 360
+    },
+    "Bless81": {
+      "xp": 88,
+      "level": 1,
+      "messages": 16,
+      "time_spent": 480
+    },
+    "BabyKiarraa": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "_Hinora": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "zcgfjjn.mhdddd": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "JellyfishSociobiologist": {
+      "xp": 33,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 600
+    },
+    "jstyun": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "98_MaTi": {
+      "xp": 56,
+      "level": 1,
+      "messages": 10,
+      "time_spent": 480
+    },
+    "rona_1389_14": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "nhkg2": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "Stephanie_Lorenz": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "VanilaCherry": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "Hiami__": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "GravitonSubpar": {
+      "xp": 38,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 480
+    },
+    "iLun_": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "XXXZXO3am131": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "19.166": {
+      "xp": 23,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 600
+    },
+    "sukuna_fk4": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Pretty.Joslynn": {
+      "xp": 11,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 480
+    },
+    "aniekss_xs3": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "hosen_diad": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "Taha_B_861": {
+      "xp": 243,
+      "level": 2,
+      "messages": 47,
+      "time_spent": 600
+    },
+    "SAEED_00": {
+      "xp": 51,
+      "level": 1,
+      "messages": 9,
+      "time_spent": 360
+    },
+    "garg3": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "kaneki_fk3": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "uttpalkibg": {
+      "xp": 16,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 480
+    },
+    "Ainy.luv": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Elina._.22": {
+      "xp": 126,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 480
+    },
+    "Mikasa_sukasa": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "s_aba": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "M.I.S.A.G.H.1": {
+      "xp": 36,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 480
+    },
+    "NAZ2626": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "explode_": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "1.9.1.4": {
+      "xp": 29,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 240
+    },
+    "86574": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "amir_BAG021": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "mahla_h_a": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "Z.705": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "pipisycho": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "HeavenEssence": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "_Tsotsi_": {
+      "xp": 9,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 360
+    },
+    "sinbohkt": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "berry_360": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Spoo03": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "diba_85": {
+      "xp": 124,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 360
+    },
+    "UnreachedGerrymander": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "ZombieBatAttack": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "nana_shiz": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "hval9": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "roz.1110": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "aram996": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "S._90_.S": {
+      "xp": 17,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 240
+    },
+    "ifryfish": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "AMIRjkdkd": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Doda_S": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "kajal52": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "SuperSpeed2217": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 240
+    },
+    "Bonesfreak": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "XENO_04": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "Max.bot": {
+      "xp": 204,
+      "level": 2,
+      "messages": 80,
+      "time_spent": 240
+    },
+    "Fallen_angel_baby": {
+      "xp": 52,
+      "level": 1,
+      "messages": 10,
+      "time_spent": 120
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep",
+    "_RAFAELO"
+  ],
+  "feedback": [
+    {
+      "username": "_VENOMWOLF",
+      "message": "nice room",
+      "time": "2026-01-22 21:59:24"
+    }
+  ],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 4,
+      "last_seen": "2026-01-25"
+    },
+    "Radmir_56": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "iluvblueberrys": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "kirakiriechkammm": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "KOT_TOK21_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ReadSupernova": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "XXLharya": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Belochka_R1se": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "VentilatedTwine": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "SleeperGenuflection": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "NAZIK12B": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "____clown____": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "_meow_kitti": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "SLADKIY_SON": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "PashuNyaa": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Ladora_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Jester_110": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "idontka": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "dysanity": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "vollus": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Mokke_5": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Zayan.khan": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "aylin_1380": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "lizzyisafurry31_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Maan1999": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "GravitonSubpar": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "GsVErr": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "m_king.88": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "noah708": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "omegabellami": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Cheli005": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "amststar": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "nava86": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Abnbat61": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "amo_rabert_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "La__Barbie_flow": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "acebadboy": {
+      "streak": 2,
+      "last_seen": "2026-01-08"
+    },
+    "A3_3": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Seti_sti": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "T._k_787722": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "AMIRREZA_1284": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Vitamin_C3": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "JennyInMyPantss": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "snotik": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "HoneyyxBunny": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "MilkyWay904567": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "hasti___9": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "nana_shiz": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "im__vida": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "mahi_79": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "batman_160": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "OLKAPON": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "8.2.4": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "kianai2": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "sepideh_91_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "88.404": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Milen_ko": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "PickledTailored": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Starboy1516": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "5.cv": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Dop40": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Miss_Miracle": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "rxmm1": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "AMIR_KING_27": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "LunaDelulu": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "pipnguyen": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "88.88.68": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "chai2020": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Sania_60": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Hastryan": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "RTT9090": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ShrimpLadybug": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Callousss": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Markos77": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "MikeyArkham": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "E7vee_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "elisa__99": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "fatme_93": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "100_67": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ivetastic": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "98_998": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "RiRi8r": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "luna_llena4": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "jujay14": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "BabyKiarraa": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "_Hinora": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "zcgfjjn.mhdddd": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Onex_1": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "JellyfishSociobiologist": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "23._A": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "yours.tiara": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "jstyun": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "98_MaTi": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "rona_1389_14": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "nhkg2": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Stephanie_Lorenz": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "VanilaCherry": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "43.04": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Hiami__": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Bless81": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "iLun_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "XXXZXO3am131": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "19.166": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "sukuna_fk4": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Pretty.Joslynn": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "aniekss_xs3": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "hosen_diad": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Taha_B_861": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "amir_BAG021": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "kaneki_fk3": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "uttpalkibg": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Ainy.luv": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ToxiAnarchy": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Elina._.22": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "SAEED_00": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Mikasa_sukasa": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "garg3": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "s_aba": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "M.I.S.A.G.H.1": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "NAZ2626": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "explode_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "86574": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "mahla_h_a": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "1.9.1.4": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Z.705": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "pipisycho": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "HeavenEssence": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "_Tsotsi_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "sinbohkt": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "berry_360": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Spoo03": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "diba_85": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "UnreachedGerrymander": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "mah_p1": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ZombieBatAttack": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "hval9": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "roz.1110": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "aram996": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ZitiCosmologist": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "S._90_.S": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "ifryfish": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "AMIRjkdkd": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Doda_S": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "kajal52": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "HailieJade_xo": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "SuperSpeed2217": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Bonesfreak": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "soskart": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "_.LexX_": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "mahdis121315": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "amirCR7_7": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Ronaa4": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Mioko7": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "mohadese_20": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "Hayleerock": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "yimbow": {
+      "streak": 1,
+      "last_seen": "2026-01-07"
+    },
+    "XENO_04": {
+      "streak": 1,
+      "last_seen": "2026-01-08"
+    },
+    "corpse_bot": {
+      "streak": 1,
+      "last_seen": "2026-01-23"
+    },
+    "Fallen_angel_baby": {
+      "streak": 1,
+      "last_seen": "2026-01-24"
+    },
+    "Max.bot": {
+      "streak": 1,
+      "last_seen": "2026-01-25"
+    }
+  },
+  "saved_outfits": {
+    "1": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "active_palette": 3
+      },
+      {
+        "id": "eyebrow-n_dailyquest2024cutbrows",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "active_palette": 37
+      },
+      {
+        "id": "nose-n_12",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_platformsneakerblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "shirt-m_gqblazer_top",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room12019formalslackskhaki",
+        "amount": 1,
+        "active_palette": 0
+      }
+    ]
+  }
+}

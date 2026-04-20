@@ -1,0 +1,589 @@
+{
+  "perm_pos": {
+    "x": 3.5,
+    "y": 0.0,
+    "z": 1.5,
+    "facing": "FrontLeft"
+  },
+  "admins": [
+    "ainurxw"
+  ],
+  "language": "english",
+  "total_tips": 10,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": [],
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "69585ad9e48f25d02ce7225f": {
+      "_VENOMWOLF": 19,
+      "remwe": 4,
+      "webcum": 1,
+      "inocentboy1": 1,
+      "Vi_ka358": 1,
+      "___Tigep___": 1,
+      "Misha_0011": 1,
+      "Adam0516": 1,
+      "angel_tian": 1,
+      "Molvenno": 2,
+      "MONEYGOLDHR": 1,
+      "_Kirito_san_": 1,
+      "Tanny_Vo_": 1,
+      "Pogoper": 1,
+      "z.xx_": 1,
+      "ainurxw": 1,
+      "My_little14": 1,
+      "crakca": 1,
+      "Fla1z_ii": 1,
+      "meryt3": 1,
+      "smokingkillss": 1,
+      "time_out": 1,
+      "cherrry0": 1,
+      "Kuina666": 1,
+      "sliptii": 1,
+      "CluckSeriousness": 1,
+      "alissskk_228228228228": 1,
+      "sofa996": 1,
+      "xix0xx_": 1,
+      "Bookekeke": 1,
+      "sy4ka_diano4ka_krasotka": 1,
+      "polinzk": 1,
+      "_RAFAELO": 1,
+      "corokonohka228": 1,
+      "Hent_Vaifu_15": 1,
+      "tudkmdfs": 1,
+      "9_homa_9": 1
+    }
+  },
+  "subscribers": [
+    "Vi_ka358",
+    "ainurxw",
+    "Leraaaa0",
+    "corokonohka228",
+    "webcum",
+    "Bunniekboo52"
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "_VENOMWOLF": 2126,
+    "inocentboy1": 24,
+    "___Tigep___": 97,
+    "Adam0516": 122,
+    "_Kirito_san_": 25,
+    "Molvenno": 133,
+    "Pogoper": 74,
+    "My_little14": 84,
+    "angel_tian": 399,
+    "crakca": 44,
+    "smokingkillss": 13,
+    "time_out": 18,
+    "cherrry0": 67,
+    "sliptii": 15,
+    "CluckSeriousness": 57,
+    "sofa996": 66,
+    "Kuina666": 230,
+    "_RAFAELO": 59,
+    "Hent_Vaifu_15": 17
+  },
+  "command_usage": {
+    "_VENOMWOLF": 114,
+    "remwe": 18,
+    "Vi_ka358": 2,
+    "webcum": 2,
+    "ainurxw": 6,
+    "Leraaaa0": 1,
+    "corokonohka228": 1,
+    "Bunniekboo52": 2
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "remwe",
+      "amount": 10,
+      "time": "2026-01-05 19:04:09"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 155,
+    "remwe": 189,
+    "webcum": 24,
+    "Vi_ka358": 89,
+    "jenie65": 1,
+    "Molvenno": 1,
+    "Tanny_Vo_": 117,
+    "MONEYGOLDHR": 72,
+    "ainurxw": 185,
+    "Fla1z_ii": 53,
+    "Leraaaa0": 42,
+    "meryt3": 12,
+    "sofa996": 1,
+    "xix0xx_": 5,
+    "alissskk_228228228228": 2,
+    "sy4ka_diano4ka_krasotka": 2,
+    "corokonohka228": 34,
+    "Bunniekboo52": 15
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {},
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [
+    "remwe"
+  ],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 170,
+      "level": 2,
+      "messages": 208,
+      "time_spent": 13440
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "remwe": {
+      "xp": 44,
+      "level": 3,
+      "messages": 192,
+      "time_spent": 11040
+    },
+    "webcum": {
+      "xp": 96,
+      "level": 1,
+      "messages": 24,
+      "time_spent": 4680
+    },
+    "Vi_ka358": {
+      "xp": 97,
+      "level": 1,
+      "messages": 89,
+      "time_spent": 3120
+    },
+    "jenie65": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "Misha_0011": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Adam0516": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "angel_tian": {
+      "xp": 8,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 600
+    },
+    "Molvenno": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 240
+    },
+    "MONEYGOLDHR": {
+      "xp": 22,
+      "level": 2,
+      "messages": 72,
+      "time_spent": 9840
+    },
+    "Tanny_Vo_": {
+      "xp": 27,
+      "level": 1,
+      "messages": 117,
+      "time_spent": 8640
+    },
+    "Pogoper": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "z.xx_": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "ainurxw": {
+      "xp": 83,
+      "level": 1,
+      "messages": 185,
+      "time_spent": 9480
+    },
+    "Fla1z_ii": {
+      "xp": 133,
+      "level": 2,
+      "messages": 53,
+      "time_spent": 4080
+    },
+    "Leraaaa0": {
+      "xp": 42,
+      "level": 1,
+      "messages": 42,
+      "time_spent": 1920
+    },
+    "meryt3": {
+      "xp": 32,
+      "level": 1,
+      "messages": 12,
+      "time_spent": 4440
+    },
+    "cherrry0": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Kuina666": {
+      "xp": 6,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 480
+    },
+    "CluckSeriousness": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "alissskk_228228228228": {
+      "xp": 34,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 1560
+    },
+    "sofa996": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 240
+    },
+    "xix0xx_": {
+      "xp": 45,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 1320
+    },
+    "Bookekeke": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "sy4ka_diano4ka_krasotka": {
+      "xp": 32,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 1320
+    },
+    "polinzk": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "_RAFAELO": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "corokonohka228": {
+      "xp": 82,
+      "level": 1,
+      "messages": 34,
+      "time_spent": 6840
+    },
+    "Bunniekboo52": {
+      "xp": 95,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 1320
+    },
+    "tudkmdfs": {
+      "xp": 12,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 840
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep",
+    "remwe"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 2,
+      "last_seen": "2026-01-06"
+    },
+    "remwe": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "webcum": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "inocentboy1": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Vi_ka358": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "___Tigep___": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Misha_0011": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Adam0516": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "angel_tian": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Molvenno": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "MONEYGOLDHR": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "_Kirito_san_": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Tanny_Vo_": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Pogoper": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "z.xx_": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "ainurxw": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "My_little14": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "crakca": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Fla1z_ii": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "meryt3": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "smokingkillss": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "time_out": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "cherrry0": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Kuina666": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "sliptii": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "CluckSeriousness": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "alissskk_228228228228": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "sofa996": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "xix0xx_": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Bookekeke": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "sy4ka_diano4ka_krasotka": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "polinzk": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "corokonohka228": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Hent_Vaifu_15": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "tudkmdfs": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "9_homa_9": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    }
+  },
+  "dance_floor_area": {
+    "min_x": 14.0,
+    "max_x": 15.0,
+    "min_y": -0.25,
+    "max_y": 0.75,
+    "min_z": 11.0,
+    "max_z": 12.0
+  },
+  "dance_floor_enabled": true
+}

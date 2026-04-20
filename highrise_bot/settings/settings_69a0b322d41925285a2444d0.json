@@ -1,0 +1,539 @@
+{
+  "perm_pos": {
+    "x": 17.5,
+    "y": 0.0,
+    "z": 11.5,
+    "facing": "FrontRight"
+  },
+  "admins": [
+    "HELL_GOD"
+  ],
+  "language": "english",
+  "total_tips": 7,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {
+    "zikukaaa": 1774264249
+  },
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 19
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 1
+    },
+    "69a0b322d41925285a2444d0": {
+      "_inferno__": 13,
+      "Jennie043": 1,
+      "V4SU__": 6,
+      "mukta31": 3,
+      "noughtiness_": 1,
+      "sahiba90": 3,
+      "Salvius_": 3,
+      "IvoryEcho23": 3,
+      "Lite_Work": 1,
+      "ur_lucky_": 6,
+      "Nihem": 1,
+      "yashika_885": 3,
+      "Pysche_": 1,
+      "kimjenne_": 1,
+      "HELL_GOD": 2,
+      "zikukaaa": 2,
+      "shiv11": 3,
+      "Jewel32": 1,
+      "thea.bladed": 1,
+      "UnstainedApologetic": 2,
+      "__ADiii__": 1,
+      "Hent_Vaifu_15": 1
+    }
+  },
+  "subscribers": [
+    "_VENOMWOLF",
+    {
+      "id": "682f715079700bca98d2933a",
+      "username": "V4SU__"
+    },
+    {
+      "id": "65a3e51399f8da5550d749ce",
+      "username": "_.N.I.K.K"
+    },
+    {
+      "id": "69968cc90b9368eb226d7d2d",
+      "username": "ur_lucky_"
+    },
+    {
+      "id": "650303d0928cc27b8029444d",
+      "username": "_inferno__",
+      "date": "2026-03-03"
+    },
+    {
+      "id": "65069e0d6616c49e49d652a5",
+      "username": "HELL_GOD",
+      "date": "2026-03-03"
+    }
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 213,
+    "V4SU__": 8,
+    "noughtiness_": 26,
+    "Lite_Work": 100,
+    "Nihem": 344,
+    "yashika_885": 5,
+    "Pysche_": 37,
+    "IvoryEcho23": 224,
+    "kimjenne_": 56,
+    "_inferno__": 391,
+    "Jewel32": 15,
+    "Salvius_": 73,
+    "thea.bladed": 8,
+    "__ADiii__": 81,
+    "sahiba90": 567,
+    "shiv11": 98,
+    "Hent_Vaifu_15": 19
+  },
+  "command_usage": {
+    "_VENOMWOLF": 42,
+    "_inferno__": 60,
+    "ur_lucky_": 25,
+    "V4SU__": 13,
+    "_.N.I.K.K": 3,
+    "HELL_GOD": 9
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    },
+    {
+      "username": "_inferno__",
+      "amount": 5,
+      "time": "2026-03-03 15:06:20"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 42,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2,
+    "_.N.I.K.K": 12,
+    "_inferno__": 125,
+    "V4SU__": 107,
+    "ur_lucky_": 176,
+    "Jennie043": 5,
+    "mukta31": 92,
+    "HELL_GOD": 31,
+    "Salvius_": 73,
+    "IvoryEcho23": 1,
+    "kimjenne_": 1,
+    "zikukaaa": 14,
+    "shiv11": 54,
+    "sahiba90": 12,
+    "__ADiii__": 29
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "50",
+    "2": "<#FFF44F>🎪 \"Backstage pass activated! See what happens behind the scenes!\" https://high.rs/room?id=685be293caab3348c349b260&invite_id=6957a8a1e48f25d02cdc8bc2"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 13,
+      "level": 3,
+      "messages": 47,
+      "time_spent": 4320
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "_.N.I.K.K": {
+      "xp": 66,
+      "level": 1,
+      "messages": 12,
+      "time_spent": 360
+    },
+    "_inferno__": {
+      "xp": 211,
+      "level": 2,
+      "messages": 125,
+      "time_spent": 5160
+    },
+    "V4SU__": {
+      "xp": 177,
+      "level": 2,
+      "messages": 107,
+      "time_spent": 2520
+    },
+    "Jennie043": {
+      "xp": 33,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 600
+    },
+    "HELL_GOD": {
+      "xp": 29,
+      "level": 1,
+      "messages": 31,
+      "time_spent": 4560
+    },
+    "ur_lucky_": {
+      "xp": 158,
+      "level": 2,
+      "messages": 176,
+      "time_spent": 4800
+    },
+    "mukta31": {
+      "xp": 112,
+      "level": 2,
+      "messages": 92,
+      "time_spent": 3120
+    },
+    "noughtiness_": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Salvius_": {
+      "xp": 81,
+      "level": 1,
+      "messages": 73,
+      "time_spent": 1080
+    },
+    "IvoryEcho23": {
+      "xp": 11,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 480
+    },
+    "Nihem": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "kimjenne_": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "zikukaaa": {
+      "xp": 114,
+      "level": 2,
+      "messages": 14,
+      "time_spent": 2760
+    },
+    "shiv11": {
+      "xp": 92,
+      "level": 1,
+      "messages": 54,
+      "time_spent": 1440
+    },
+    "UnstainedApologetic": {
+      "xp": 18,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 1200
+    },
+    "sahiba90": {
+      "xp": 68,
+      "level": 1,
+      "messages": 12,
+      "time_spent": 600
+    },
+    "__ADiii__": {
+      "xp": 153,
+      "level": 2,
+      "messages": 29,
+      "time_spent": 600
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep",
+    "HELL_GOD"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_inferno__": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Jennie043": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "V4SU__": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "mukta31": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "noughtiness_": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "sahiba90": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Salvius_": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "IvoryEcho23": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Lite_Work": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "ur_lucky_": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Nihem": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "yashika_885": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Pysche_": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "kimjenne_": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "HELL_GOD": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "zikukaaa": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "shiv11": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Jewel32": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "thea.bladed": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "UnstainedApologetic": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "__ADiii__": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    },
+    "Hent_Vaifu_15": {
+      "streak": 1,
+      "last_seen": "2026-03-03"
+    }
+  },
+  "vip_cost_30d": 5,
+  "user_tips_ledger": {
+    "_inferno__": 0
+  },
+  "user_stats": {
+    "_inferno__": {
+      "joined_bot_date": "2026-03-03",
+      "first_seen": "2026-03-03 15:47:05",
+      "last_seen": "2026-03-03 16:47:01"
+    },
+    "ur_lucky_": {
+      "first_seen": "2026-03-03 15:46:01"
+    },
+    "IvoryEcho23": {
+      "first_seen": "2026-03-03 15:49:24",
+      "last_seen": "2026-03-03 16:36:43"
+    },
+    "kimjenne_": {
+      "first_seen": "2026-03-03 15:54:40",
+      "last_seen": "2026-03-03 15:55:37"
+    },
+    "mukta31": {
+      "first_seen": "2026-03-03 16:07:30"
+    },
+    "V4SU__": {
+      "first_seen": "2026-03-03 16:08:57"
+    },
+    "HELL_GOD": {
+      "first_seen": "2026-03-03 16:10:28",
+      "joined_bot_date": "2026-03-03"
+    },
+    "zikukaaa": {
+      "first_seen": "2026-03-03 16:12:07"
+    },
+    "shiv11": {
+      "first_seen": "2026-03-03 16:21:57",
+      "last_seen": "2026-03-03 16:49:38"
+    },
+    "Jewel32": {
+      "first_seen": "2026-03-03 16:26:18",
+      "last_seen": "2026-03-03 16:26:34"
+    },
+    "Salvius_": {
+      "first_seen": "2026-03-03 16:27:58",
+      "last_seen": "2026-03-03 16:29:12"
+    },
+    "thea.bladed": {
+      "first_seen": "2026-03-03 16:29:15",
+      "last_seen": "2026-03-03 16:29:24"
+    },
+    "UnstainedApologetic": {
+      "first_seen": "2026-03-03 16:39:42"
+    },
+    "__ADiii__": {
+      "first_seen": "2026-03-03 16:41:01",
+      "last_seen": "2026-03-03 16:42:22"
+    },
+    "sahiba90": {
+      "first_seen": "2026-03-03 16:41:03",
+      "last_seen": "2026-03-03 16:59:38"
+    },
+    "Hent_Vaifu_15": {
+      "first_seen": "2026-03-03 16:57:27",
+      "last_seen": "2026-03-03 16:57:46"
+    }
+  },
+  "vip_history": [
+    "zikukaaa"
+  ]
+}

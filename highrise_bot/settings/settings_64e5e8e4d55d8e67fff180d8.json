@@ -1,0 +1,339 @@
+{
+  "perm_pos": {
+    "x": 10.5,
+    "y": 4.5,
+    "z": 3.5,
+    "facing": "FrontRight"
+  },
+  "admins": [
+    "shiga_Haruki_",
+    "Bike.withgirl"
+  ],
+  "language": "english",
+  "total_tips": 15,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {
+    "Bike.withgirl": "permanent"
+  },
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "64e5e8e4d55d8e67fff180d8": {
+      "_VENOMWOLF": 39,
+      "DJ.Abducted": 1,
+      "OD_MAFIA": 1,
+      "_RAFAELO": 4,
+      "Bike.withgirl": 4,
+      "inocentboy1": 2,
+      "iam.ayeman": 1,
+      "XENO_04": 1,
+      "Fallen_angel_baby": 3
+    }
+  },
+  "subscribers": [
+    "shiga_Haruki_",
+    "Bike.withgirl",
+    "_RAFAELO",
+    "AccidentRhetorical",
+    "_VENOMWOLF"
+  ],
+  "invite_room_id": "64e5e8e4d55d8e67fff180d8",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "OD_MAFIA": 107,
+    "_VENOMWOLF": 2583,
+    "_RAFAELO": 37,
+    "Bike.withgirl": 36,
+    "inocentboy1": 45,
+    "Fallen_angel_baby": 36
+  },
+  "command_usage": {
+    "_VENOMWOLF": 112,
+    "shiga_Haruki_": 2,
+    "inocentboy1": 3,
+    "Bike.withgirl": 12,
+    "_RAFAELO": 4
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_RAFAELO",
+      "amount": 1,
+      "time": "2026-01-05 11:44:26"
+    },
+    {
+      "username": "_RAFAELO",
+      "amount": 1,
+      "time": "2026-01-05 11:44:39"
+    },
+    {
+      "username": "Bike.withgirl",
+      "amount": 10,
+      "time": "2026-01-05 12:25:29"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-05 12:25:32"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-22 21:08:15"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-22 21:08:19"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 183,
+    "shiga_Haruki_": 6,
+    "inocentboy1": 43,
+    "DJ.Abducted": 17,
+    "Ranmouri_": 34,
+    "moonintheskyy_": 49,
+    "OD_MAFIA": 4,
+    "Bike.withgirl": 47,
+    "_RAFAELO": 4,
+    "Rishav01": 3,
+    "XENO_04": 2,
+    "Fallen_angel_baby": 5
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "2": "Feeling bored? Let's vibe together and enjoy some tunes! Hop in: https://high.rs/room?id=64e5e8e4d55d8e67fff180d8&invite_id=695b5074f8768f4d7cce5be6😎",
+    "1": "thanks"
+  },
+  "loop_cooldown": 50,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [
+    "inocentboy1"
+  ],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 105,
+      "level": 2,
+      "messages": 233,
+      "time_spent": 14040
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "inocentboy1": {
+      "xp": 93,
+      "level": 1,
+      "messages": 45,
+      "time_spent": 4080
+    },
+    "shiga_Haruki_": {
+      "xp": 45,
+      "level": 1,
+      "messages": 7,
+      "time_spent": 600
+    },
+    "DJ.Abducted": {
+      "xp": 91,
+      "level": 1,
+      "messages": 17,
+      "time_spent": 360
+    },
+    "Ranmouri_": {
+      "xp": 174,
+      "level": 2,
+      "messages": 34,
+      "time_spent": 240
+    },
+    "moonintheskyy_": {
+      "xp": 249,
+      "level": 2,
+      "messages": 49,
+      "time_spent": 240
+    },
+    "OD_MAFIA": {
+      "xp": 22,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 120
+    },
+    "_RAFAELO": {
+      "xp": 24,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 360
+    },
+    "Bike.withgirl": {
+      "xp": 43,
+      "level": 1,
+      "messages": 47,
+      "time_spent": 6600
+    },
+    "Rishav01": {
+      "xp": 61,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 2880
+    },
+    "XENO_04": {
+      "xp": 10,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Fallen_angel_baby": {
+      "xp": 29,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 240
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 2,
+      "last_seen": "2026-01-25"
+    },
+    "DJ.Abducted": {
+      "streak": 1,
+      "last_seen": "2026-01-04"
+    },
+    "OD_MAFIA": {
+      "streak": 1,
+      "last_seen": "2026-01-04"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "Bike.withgirl": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "inocentboy1": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "iam.ayeman": {
+      "streak": 1,
+      "last_seen": "2026-01-05"
+    },
+    "XENO_04": {
+      "streak": 1,
+      "last_seen": "2026-01-22"
+    },
+    "Fallen_angel_baby": {
+      "streak": 1,
+      "last_seen": "2026-01-24"
+    }
+  }
+}

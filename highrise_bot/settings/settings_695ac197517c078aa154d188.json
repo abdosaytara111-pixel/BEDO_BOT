@@ -1,0 +1,250 @@
+{
+  "perm_pos": {
+    "x": 9.0,
+    "y": 0.5,
+    "z": 1.5,
+    "facing": "FrontLeft"
+  },
+  "admins": [],
+  "language": "english",
+  "total_tips": 0,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": {
+    "_RAFAELO": 1767785529
+  },
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "695ac197517c078aa154d188": {
+      "_VENOMWOLF": 16,
+      "prim_rosey": 2,
+      "dysanity": 1,
+      "Simxo_o": 4,
+      "iluvblueberrys": 31,
+      "Seti_sti": 1,
+      "_RAFAELO": 2
+    }
+  },
+  "subscribers": [
+    "Simxo_o",
+    "iluvblueberrys",
+    "_RAFAELO"
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "_VENOMWOLF": 1139,
+    "dysanity": 34,
+    "Seti_sti": 70,
+    "_RAFAELO": 158,
+    "Simxo_o": 229,
+    "prim_rosey": 214
+  },
+  "command_usage": {
+    "Simxo_o": 11,
+    "iluvblueberrys": 2,
+    "_VENOMWOLF": 38,
+    "_RAFAELO": 8
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [],
+  "chat_stats": {
+    "iluvblueberrys": 83,
+    "Simxo_o": 76,
+    "_VENOMWOLF": 82,
+    "prim_rosey": 13,
+    "Seti_sti": 1,
+    "_RAFAELO": 13
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "2": "<#FFF44F>🎪 \"Backstage pass activated! See what happens behind the scenes!\" https://high.rs/room?id=685be293caab3348c349b260&invite_id=6957a8a1e48f25d02cdc8bc2"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [
+    "Simxo_o",
+    "iluvblueberrys"
+  ],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 1,
+      "level": 2,
+      "messages": 135,
+      "time_spent": 7200
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "iluvblueberrys": {
+      "xp": 126,
+      "level": 2,
+      "messages": 94,
+      "time_spent": 3360
+    },
+    "Simxo_o": {
+      "xp": 59,
+      "level": 1,
+      "messages": 83,
+      "time_spent": 2640
+    },
+    "prim_rosey": {
+      "xp": 97,
+      "level": 1,
+      "messages": 13,
+      "time_spent": 1920
+    },
+    "Seti_sti": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 240
+    },
+    "_RAFAELO": {
+      "xp": 69,
+      "level": 1,
+      "messages": 13,
+      "time_spent": 240
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "prim_rosey": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "dysanity": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "Simxo_o": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "iluvblueberrys": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "Seti_sti": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    },
+    "_RAFAELO": {
+      "streak": 1,
+      "last_seen": "2026-01-06"
+    }
+  }
+}

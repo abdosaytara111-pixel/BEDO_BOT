@@ -1,0 +1,429 @@
+{
+  "perm_pos": {
+    "x": 16.5,
+    "y": 0.10000000149011612,
+    "z": 14.5,
+    "facing": "FrontRight"
+  },
+  "admins": [],
+  "language": "english",
+  "total_tips": 2,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": [],
+  "nicknames": {
+    "_VENOMWOLF": {
+      "nickname": "agya kutta",
+      "enabled": true
+    }
+  },
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "hii @username welcome to room"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 19
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 1
+    },
+    "694b70dae3bb42d1653fbb2a": {
+      "_VENOMWOLF": 32,
+      "AccidentRhetorical": 2,
+      "_inferno__": 2
+    }
+  },
+  "subscribers": [
+    "_VENOMWOLF",
+    "AccidentRhetorical"
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=69564636a2ae2a0996dc271d",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "Check out our awesome room! 💖",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 1505,
+    "AccidentRhetorical": 17,
+    "_inferno__": 66
+  },
+  "command_usage": {
+    "_VENOMWOLF": 131,
+    "AccidentRhetorical": 2,
+    "_inferno__": 10
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 144,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2,
+    "Max.bot": 1,
+    "AccidentRhetorical": 2,
+    "INDIAN_BEATS": 4,
+    "_inferno__": 14
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "2": "<#FFF44F>🎪 \"Backstage pass activated! See what happens behind the scenes!\" https://high.rs/room?id=685be293caab3348c349b260&invite_id=6957a8a1e48f25d02cdc8bc2",
+    "1": "thanks joining the room"
+  },
+  "loop_cooldown": 2,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 191,
+      "level": 2,
+      "messages": 149,
+      "time_spent": 8400
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "Max.bot": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "AccidentRhetorical": {
+      "xp": 10,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "INDIAN_BEATS": {
+      "xp": 22,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 120
+    },
+    "_inferno__": {
+      "xp": 72,
+      "level": 1,
+      "messages": 14,
+      "time_spent": 120
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep"
+  ],
+  "feedback": [],
+  "user_streaks": {
+    "_VENOMWOLF": {
+      "streak": 1,
+      "last_seen": "2026-01-23"
+    },
+    "AccidentRhetorical": {
+      "streak": 1,
+      "last_seen": "2026-01-23"
+    },
+    "_inferno__": {
+      "streak": 1,
+      "last_seen": "2026-02-21"
+    }
+  },
+  "saved_outfits": {
+    "1": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "active_palette": 3
+      },
+      {
+        "id": "eyebrow-n_dailyquest2024cutbrows",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "active_palette": 37
+      },
+      {
+        "id": "nose-n_12",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_platformsneakerblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room12019formalslacksblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "shirt-n_hmpuffjacketred",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_01",
+        "amount": 1,
+        "active_palette": 1
+      }
+    ],
+    "2": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "active_palette": 3
+      },
+      {
+        "id": "eyebrow-n_dailyquest2024cutbrows",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "active_palette": 37
+      },
+      {
+        "id": "nose-n_12",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_platformsneakerblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room12019formalslacksblack",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_01",
+        "amount": 1,
+        "active_palette": 1
+      },
+      {
+        "id": "shirt-n_gothanchorstore2022gothcrop",
+        "amount": 1,
+        "active_palette": 0
+      }
+    ],
+    "4": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 65
+      },
+      {
+        "id": "shirt-n_electionsuitdark",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "pants-n_electionpantsdark",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_2016artistloafers",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_malenew01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-n_basic2018zanyeyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "eyebrow-n_21",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ]
+  },
+  "invite_message": "https://high.rs/room?id=694b70dae3bb42d1653fbb2a&invite_id=697373164fb9812295fc2c1d"
+}

@@ -1,0 +1,3340 @@
+{
+  "perm_pos": {
+    "x": 1.5,
+    "y": 4.5,
+    "z": 4.5,
+    "facing": "FrontRight"
+  },
+  "admins": [
+    "M_OG",
+    "X.K5",
+    "Its__deda",
+    "el_Doon7_",
+    "koko_80_",
+    "joody43",
+    "vx_i1",
+    "toxicshosho_1",
+    "KrizaCatSad"
+  ],
+  "language": "english",
+  "total_tips": 2,
+  "ai_enabled": false,
+  "gemini_api_key": "YOUR_API_KEY_HERE",
+  "vips": [],
+  "nicknames": {},
+  "vip_teleports": {
+    "vip": {
+      "x": 7.5,
+      "y": 4.5,
+      "z": 7.0,
+      "facing": "FrontLeft",
+      "creator": "_VENOMWOLF"
+    }
+  },
+  "custom_welcome_message": "",
+  "user_teleports": {},
+  "room_name": "hello",
+  "join_messages": [
+    "welcome to @to_xic_ https://high.rs/room?id=69b6ef8e54643434da29af27&invite_id=69c5b91299727578dab3b494 have a safe and fun 🥰"
+  ],
+  "chat_tracking": true,
+  "vip_cost": 100,
+  "user_visits": {
+    "694642f094977936f78a313f": {
+      "_VENOMWOLF": 4,
+      "harmanpreet_19": 1,
+      "Baei.ily_": 1
+    },
+    "685be293caab3348c349b260": {
+      "_VENOMWOLF": 19
+    },
+    "69281a62bef272493deb730d": {
+      "_VENOMWOLF": 1
+    },
+    "69b6ef8e54643434da29af27": {
+      "to_xic_": 78,
+      "Dimenbbby": 79,
+      "M_O.H.A.M.E.D": 20,
+      "M_OG": 6,
+      "osama_A7": 6,
+      "N__115": 1,
+      "BB7r": 1,
+      "X.K5": 15,
+      "el_Doon7_": 18,
+      "Starlin15": 4,
+      "_305": 1,
+      "Ma___ha": 1,
+      "Fatma_1216": 2,
+      "bo8q": 1,
+      "xx2024xx": 1,
+      "m77adbx": 1,
+      "maram0.1": 1,
+      "Q1L._": 2,
+      "C7R_": 3,
+      "B_esso": 14,
+      "YMA_N": 18,
+      "vivo5_": 1,
+      "Vvllx": 1,
+      "_i9Q": 1,
+      "vx_i1": 18,
+      "hyuni_skz": 2,
+      "di_vo_": 5,
+      "J9Lp": 1,
+      "Qpc._": 1,
+      "4.2r": 1,
+      "2M0": 1,
+      "toxicshosho_1": 4,
+      "H.ER0": 2,
+      "A_INFP": 1,
+      "Mickey_100": 6,
+      "mohamesddd3": 1,
+      "m._la": 1,
+      "bogy36": 1,
+      "Maryam_KIR": 1,
+      "Mmraa": 1,
+      "damo0_0": 2,
+      "ree_lax": 1,
+      "BAD_____MAN": 1,
+      "Maro_Semary": 1,
+      "M._ax": 1,
+      "s_t_11": 7,
+      "tommy_.1": 3,
+      "_TI0": 1,
+      "SleepyNas": 1,
+      "ghsoune": 1,
+      "koko_80_": 9,
+      "joody43": 10,
+      "s__44": 2,
+      "w_e_k_i__": 1,
+      "fwp_": 1,
+      "_otbxx": 1,
+      "V0XX39": 3,
+      "I3AS": 1,
+      "mimi_11110": 1,
+      "Babiys": 1,
+      "O______O123": 2,
+      "7_M_D": 1,
+      "M17Y": 1,
+      "L.U.N.A.R_": 1,
+      "Younes_34": 1,
+      "nodertid": 1,
+      "CIouds_": 1,
+      "level_down": 1,
+      "S.K_": 2,
+      "N_p5": 3,
+      "SpikedSimplicity": 1,
+      "_ag4": 1,
+      "Its__deda": 1,
+      "kemo_Tamam": 1,
+      "mi_.ra": 1,
+      "sel_o": 2,
+      "nil_ve": 1,
+      "Eva_ol": 1,
+      "lR0l": 1,
+      "Catherine_97": 1,
+      "69b5": 1,
+      "m____Am": 1,
+      "KrizaCatSad": 10,
+      "mok_aa": 1,
+      "R._._O": 2,
+      "brahim64": 1,
+      "DB_1": 14,
+      "kio62": 1,
+      "deenaalf": 1,
+      "mimi2083": 1,
+      "Dede511": 4,
+      "XX.X1": 1,
+      "ka7faa": 1,
+      "Y0mn": 1,
+      "9WL_": 1,
+      "_myaw": 1,
+      "_Hnndo": 1,
+      "MMM_.18": 1,
+      "majdi_alshrfat": 1,
+      "Nargs___u": 1,
+      "moka_mok": 1,
+      "PublicExtradition": 1,
+      "fx.3": 1,
+      "lolo2004_": 1,
+      "XxAJ_xX": 1,
+      "meko_.10": 1,
+      "X__N0": 1,
+      "nesrine2289": 1,
+      "7.R.B": 1,
+      "AbuReda": 1
+    }
+  },
+  "subscribers": [
+    "_VENOMWOLF",
+    {
+      "id": "695a608377ec764e8367664a",
+      "username": "to_xic_",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "6383868c80da5482bceb03ee",
+      "username": "M_O.H.A.M.E.D",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "694143493f5f8124628e42a4",
+      "username": "osama_A7",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "6727f4fd7dfd928092635237",
+      "username": "B_esso",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "69bba37ab6fb4d65db5f3af5",
+      "username": "Vvllx",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "68c6f87381d202045fab348e",
+      "username": "di_vo_",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "6904d5b87f849eb6091f793b",
+      "username": "Mickey_100",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "69a6cb45f4eec5ab8f996457",
+      "username": "X.K5",
+      "date": "2026-03-28"
+    },
+    {
+      "id": "64afb07c4bfb2b52b87582a0",
+      "username": "Dimenbbby",
+      "date": "2026-03-28"
+    },
+    {
+      "id": "69c905148fab6cf005f2648c",
+      "username": "DB_1",
+      "date": "2026-03-30"
+    }
+  ],
+  "invite_room_id": "room?id=694642f094977936f78a313f&invite_id=6958a4f4cdac317262837bcf",
+  "banned_users": {},
+  "time_tracking": true,
+  "broadcast_msg": "welcome to @to_xic_ https://high.rs/room?id=69b6ef8e54643434da29af27&invite_id=69c5b91299727578dab3b494 have a safe and fun 🥰",
+  "user_times": {
+    "harmanpreet_19": 178,
+    "_VENOMWOLF": 213,
+    "to_xic_": 8492,
+    "M_O.H.A.M.E.D": 1342,
+    "M_OG": 1444,
+    "BB7r": 30,
+    "N__115": 416,
+    "_305": 19,
+    "Fatma_1216": 98,
+    "Ma___ha": 94,
+    "bo8q": 36,
+    "xx2024xx": 33,
+    "m77adbx": 48,
+    "Dimenbbby": 42,
+    "maram0.1": 21,
+    "Q1L._": 69,
+    "B_esso": 1648,
+    "YMA_N": 883,
+    "Starlin15": 96,
+    "_i9Q": 13,
+    "vx_i1": 1939,
+    "hyuni_skz": 74,
+    "Qpc._": 22,
+    "C7R_": 214,
+    "X.K5": 971,
+    "2M0": 10,
+    "toxicshosho_1": 253,
+    "di_vo_": 716,
+    "Mickey_100": 3136,
+    "mohamesddd3": 14,
+    "bogy36": 77,
+    "Mmraa": 23,
+    "ree_lax": 149,
+    "damo0_0": 864,
+    "Maro_Semary": 81,
+    "M._ax": 52,
+    "s_t_11": 704,
+    "_TI0": 22,
+    "tommy_.1": 648,
+    "SleepyNas": 17,
+    "s__44": 69,
+    "V0XX39": 2,
+    "w_e_k_i__": 49,
+    "I3AS": 24,
+    "mimi_11110": 71,
+    "7_M_D": 39,
+    "M17Y": 9,
+    "L.U.N.A.R_": 26,
+    "Younes_34": 19,
+    "nodertid": 93,
+    "CIouds_": 35,
+    "S.K_": 245,
+    "N_p5": 39,
+    "H.ER0": 16,
+    "SpikedSimplicity": 38,
+    "_ag4": 22,
+    "kemo_Tamam": 169,
+    "lR0l": 15,
+    "Catherine_97": 94,
+    "nil_ve": 273,
+    "mi_.ra": 327,
+    "69b5": 17,
+    "Eva_ol": 240,
+    "sel_o": 359,
+    "joody43": 859,
+    "el_Doon7_": 2305,
+    "mok_aa": 234,
+    "brahim64": 60,
+    "koko_80_": 723,
+    "O______O123": 26,
+    "kio62": 56,
+    "deenaalf": 15,
+    "mimi2083": 40,
+    "XX.X1": 73,
+    "Dede511": 333,
+    "DB_1": 79,
+    "ka7faa": 43,
+    "Y0mn": 30,
+    "9WL_": 13,
+    "_Hnndo": 14,
+    "MMM_.18": 45,
+    "PublicExtradition": 38,
+    "fx.3": 124,
+    "lolo2004_": 24,
+    "XxAJ_xX": 28,
+    "meko_.10": 10,
+    "X__N0": 159,
+    "KrizaCatSad": 578,
+    "nesrine2289": 74,
+    "osama_A7": 367,
+    "AbuReda": 38
+  },
+  "command_usage": {
+    "_VENOMWOLF": 42,
+    "to_xic_": 718,
+    "M_O.H.A.M.E.D": 14,
+    "M_OG": 10,
+    "osama_A7": 7,
+    "B_esso": 6,
+    "Vvllx": 4,
+    "di_vo_": 12,
+    "Mickey_100": 23,
+    "X.K5": 19,
+    "Dimenbbby": 3,
+    "s_t_11": 2,
+    "el_Doon7_": 107,
+    "KrizaCatSad": 20,
+    "vx_i1": 15,
+    "DB_1": 3
+  },
+  "designers": [
+    "MUSIC.DJ",
+    "bot_29"
+  ],
+  "tip_history": [
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:16"
+    },
+    {
+      "username": "_VENOMWOLF",
+      "amount": 1,
+      "time": "2026-01-03 11:00:19"
+    }
+  ],
+  "chat_stats": {
+    "_VENOMWOLF": 42,
+    "harmanpreet_19": 8,
+    "Baei.ily_": 2,
+    "R._._O": 24,
+    "KrizaCatSad": 265,
+    "to_xic_": 3063,
+    "Dimenbbby": 452,
+    "M_O.H.A.M.E.D": 258,
+    "M_OG": 240,
+    "osama_A7": 263,
+    "N__115": 24,
+    "X.K5": 286,
+    "el_Doon7_": 1074,
+    "Starlin15": 46,
+    "Fatma_1216": 1,
+    "C7R_": 17,
+    "B_esso": 70,
+    "YMA_N": 106,
+    "vivo5_": 6,
+    "AXx_xXA": 6,
+    "Vvllx": 83,
+    "di_vo_": 389,
+    "J9Lp": 7,
+    "4.2r": 41,
+    "H.ER0": 8,
+    "Mickey_100": 257,
+    "Maryam_KIR": 18,
+    "damo0_0": 54,
+    "vx_i1": 447,
+    "BAD_____MAN": 98,
+    "Maro_Semary": 1,
+    "s_t_11": 378,
+    "tommy_.1": 24,
+    "ghsoune": 39,
+    "koko_80_": 342,
+    "joody43": 97,
+    "fwp_": 24,
+    "_otbxx": 10,
+    "A_S_22": 2,
+    "O______O123": 1,
+    "level_down": 6,
+    "S.K_": 3,
+    "Its__deda": 18,
+    "_ag4": 1,
+    "kemo_Tamam": 5,
+    "mi_.ra": 2,
+    "sel_o": 1,
+    "nil_ve": 4,
+    "Eva_ol": 11,
+    "Catherine_97": 1,
+    "mok_aa": 10,
+    "brahim64": 1,
+    "DB_1": 441,
+    "toxicshosho_1": 144,
+    "majdi_alshrfat": 7,
+    "Nargs___u": 9,
+    "moka_mok": 3,
+    "X__N0": 4
+  },
+  "auto_tip": false,
+  "autotip_amount": 1,
+  "dm_moderation": [
+    "_VENOMWOLF"
+  ],
+  "warnings": {},
+  "rental_requests": [
+    {
+      "username": "_VENOMWOLF",
+      "room_id": "694642f094977936f78a313f",
+      "plan": "1day",
+      "amount": 100,
+      "time": "2026-01-01 21:28:37"
+    }
+  ],
+  "active_rentals": {
+    "_VENOMWOLF": {
+      "room_id": "694642f094977936f78a313f",
+      "expires": 1767370203,
+      "plan": "1day"
+    }
+  },
+  "blocked_admins": [],
+  "loop_messages": {
+    "1": "welcome to @to_xic_ https://high.rs/room?id=69b6ef8e54643434da29af27&invite_id=69c5b91299727578dab3b494 have a safe and fun 🥰"
+  },
+  "loop_cooldown": 60,
+  "loop_running": false,
+  "vip_message_enabled": true,
+  "giveaway_info": "",
+  "giveaway_entries": [],
+  "owners": [],
+  "admin_message_enabled": true,
+  "owner_message_enabled": true,
+  "autotip_interval": 30,
+  "user_levels": {
+    "_VENOMWOLF": {
+      "xp": 13,
+      "level": 3,
+      "messages": 47,
+      "time_spent": 4320
+    },
+    "VALTHOR": {
+      "xp": 25,
+      "level": 1
+    },
+    "harmanpreet_19": {
+      "xp": 112,
+      "level": 2,
+      "messages": 8,
+      "time_spent": 120
+    },
+    "MidweekPortside": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 0
+    },
+    "Bat_Creep": {
+      "xp": 93,
+      "level": 1,
+      "messages": 15,
+      "time_spent": 0
+    },
+    "itz_rajput2": {
+      "xp": 7,
+      "level": 1
+    },
+    "prabh_noor": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "find_a_crush2": {
+      "xp": 15,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 0
+    },
+    "Baei.ily_": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "R._._O": {
+      "xp": 138,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 1080
+    },
+    "KrizaCatSad": {
+      "xp": 65,
+      "level": 1,
+      "messages": 265,
+      "time_spent": 20400
+    },
+    "to_xic_": {
+      "xp": 65,
+      "level": 1,
+      "messages": 3063,
+      "time_spent": 75000
+    },
+    "Dimenbbby": {
+      "xp": 38,
+      "level": 1,
+      "messages": 452,
+      "time_spent": 22800
+    },
+    "M_O.H.A.M.E.D": {
+      "xp": 198,
+      "level": 2,
+      "messages": 258,
+      "time_spent": 6480
+    },
+    "M_OG": {
+      "xp": 6,
+      "level": 3,
+      "messages": 240,
+      "time_spent": 6480
+    },
+    "osama_A7": {
+      "xp": 89,
+      "level": 1,
+      "messages": 263,
+      "time_spent": 10440
+    },
+    "N__115": {
+      "xp": 26,
+      "level": 1,
+      "messages": 24,
+      "time_spent": 360
+    },
+    "X.K5": {
+      "xp": 66,
+      "level": 1,
+      "messages": 286,
+      "time_spent": 8160
+    },
+    "el_Doon7_": {
+      "xp": 82,
+      "level": 1,
+      "messages": 1074,
+      "time_spent": 18720
+    },
+    "Starlin15": {
+      "xp": 80,
+      "level": 1,
+      "messages": 46,
+      "time_spent": 3120
+    },
+    "Fatma_1216": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "Ma___ha": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "xx2024xx": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Q1L._": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "C7R_": {
+      "xp": 89,
+      "level": 1,
+      "messages": 17,
+      "time_spent": 240
+    },
+    "B_esso": {
+      "xp": 6,
+      "level": 2,
+      "messages": 70,
+      "time_spent": 3360
+    },
+    "YMA_N": {
+      "xp": 184,
+      "level": 2,
+      "messages": 106,
+      "time_spent": 3240
+    },
+    "vivo5_": {
+      "xp": 30,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 0
+    },
+    "AXx_xXA": {
+      "xp": 30,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 0
+    },
+    "Vvllx": {
+      "xp": 69,
+      "level": 1,
+      "messages": 83,
+      "time_spent": 3360
+    },
+    "vx_i1": {
+      "xp": 169,
+      "level": 2,
+      "messages": 447,
+      "time_spent": 20160
+    },
+    "di_vo_": {
+      "xp": 101,
+      "level": 2,
+      "messages": 389,
+      "time_spent": 9360
+    },
+    "J9Lp": {
+      "xp": 43,
+      "level": 1,
+      "messages": 7,
+      "time_spent": 480
+    },
+    "4.2r": {
+      "xp": 15,
+      "level": 1,
+      "messages": 41,
+      "time_spent": 600
+    },
+    "H.ER0": {
+      "xp": 56,
+      "level": 1,
+      "messages": 8,
+      "time_spent": 960
+    },
+    "Mickey_100": {
+      "xp": 151,
+      "level": 2,
+      "messages": 257,
+      "time_spent": 4080
+    },
+    "m._la": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "bogy36": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Maryam_KIR": {
+      "xp": 104,
+      "level": 2,
+      "messages": 18,
+      "time_spent": 960
+    },
+    "damo0_0": {
+      "xp": 192,
+      "level": 2,
+      "messages": 54,
+      "time_spent": 1320
+    },
+    "ree_lax": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "BAD_____MAN": {
+      "xp": 142,
+      "level": 2,
+      "messages": 98,
+      "time_spent": 3120
+    },
+    "Maro_Semary": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "M._ax": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "s_t_11": {
+      "xp": 58,
+      "level": 1,
+      "messages": 378,
+      "time_spent": 10200
+    },
+    "tommy_.1": {
+      "xp": 130,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 600
+    },
+    "ghsoune": {
+      "xp": 9,
+      "level": 3,
+      "messages": 39,
+      "time_spent": 840
+    },
+    "koko_80_": {
+      "xp": 192,
+      "level": 2,
+      "messages": 342,
+      "time_spent": 4920
+    },
+    "joody43": {
+      "xp": 157,
+      "level": 2,
+      "messages": 97,
+      "time_spent": 4320
+    },
+    "s__44": {
+      "xp": 4,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 360
+    },
+    "fwp_": {
+      "xp": 124,
+      "level": 2,
+      "messages": 24,
+      "time_spent": 240
+    },
+    "_otbxx": {
+      "xp": 54,
+      "level": 1,
+      "messages": 10,
+      "time_spent": 240
+    },
+    "Babiys": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "A_S_22": {
+      "xp": 12,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 120
+    },
+    "O______O123": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "L.U.N.A.R_": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "nodertid": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "level_down": {
+      "xp": 38,
+      "level": 1,
+      "messages": 6,
+      "time_spent": 600
+    },
+    "S.K_": {
+      "xp": 31,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 1080
+    },
+    "Its__deda": {
+      "xp": 108,
+      "level": 2,
+      "messages": 18,
+      "time_spent": 1080
+    },
+    "_ag4": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "kemo_Tamam": {
+      "xp": 27,
+      "level": 1,
+      "messages": 5,
+      "time_spent": 120
+    },
+    "mi_.ra": {
+      "xp": 14,
+      "level": 1,
+      "messages": 2,
+      "time_spent": 240
+    },
+    "sel_o": {
+      "xp": 11,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 480
+    },
+    "nil_ve": {
+      "xp": 24,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 360
+    },
+    "Eva_ol": {
+      "xp": 59,
+      "level": 1,
+      "messages": 11,
+      "time_spent": 360
+    },
+    "Catherine_97": {
+      "xp": 7,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 120
+    },
+    "m____Am": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "mok_aa": {
+      "xp": 54,
+      "level": 1,
+      "messages": 10,
+      "time_spent": 240
+    },
+    "brahim64": {
+      "xp": 5,
+      "level": 1,
+      "messages": 1,
+      "time_spent": 0
+    },
+    "DB_1": {
+      "xp": 73,
+      "level": 1,
+      "messages": 441,
+      "time_spent": 16080
+    },
+    "N_p5": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "toxicshosho_1": {
+      "xp": 178,
+      "level": 2,
+      "messages": 144,
+      "time_spent": 3600
+    },
+    "mimi2083": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "Dede511": {
+      "xp": 10,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 720
+    },
+    "XX.X1": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "ka7faa": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "MMM_.18": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "majdi_alshrfat": {
+      "xp": 37,
+      "level": 1,
+      "messages": 7,
+      "time_spent": 120
+    },
+    "Nargs___u": {
+      "xp": 49,
+      "level": 1,
+      "messages": 9,
+      "time_spent": 360
+    },
+    "moka_mok": {
+      "xp": 21,
+      "level": 1,
+      "messages": 3,
+      "time_spent": 480
+    },
+    "fx.3": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "lolo2004_": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    },
+    "X__N0": {
+      "xp": 22,
+      "level": 1,
+      "messages": 4,
+      "time_spent": 240
+    },
+    "7.R.B": {
+      "xp": 2,
+      "level": 1,
+      "messages": 0,
+      "time_spent": 240
+    }
+  },
+  "dance_floors": {
+    "main": {
+      "1": [
+        0.5,
+        -0.0010000000474974513,
+        14.5
+      ],
+      "2": [
+        4.0,
+        -0.0010000000474974513,
+        14.0
+      ]
+    }
+  },
+  "flash_users": [
+    "_VENOMWOLF",
+    "Bat_Creep"
+  ],
+  "feedback": [],
+  "user_stats": {
+    "to_xic_": {
+      "first_seen": "2026-03-27 00:09:37",
+      "last_seen": "2026-03-29 21:40:38",
+      "joined_bot_date": "2026-03-27"
+    },
+    "Dimenbbby": {
+      "first_seen": "2026-03-27 00:14:21",
+      "last_seen": "2026-03-28 17:56:17",
+      "joined_bot_date": "2026-03-28"
+    },
+    "M_O.H.A.M.E.D": {
+      "first_seen": "2026-03-27 00:38:18",
+      "last_seen": "2026-03-28 18:20:22",
+      "joined_bot_date": "2026-03-27"
+    },
+    "M_OG": {
+      "first_seen": "2026-03-27 02:37:50",
+      "last_seen": "2026-03-27 04:20:33"
+    },
+    "osama_A7": {
+      "first_seen": "2026-03-27 04:24:31",
+      "joined_bot_date": "2026-03-27",
+      "last_seen": "2026-03-30 05:31:46"
+    },
+    "N__115": {
+      "first_seen": "2026-03-27 04:27:20",
+      "last_seen": "2026-03-27 04:34:16"
+    },
+    "BB7r": {
+      "first_seen": "2026-03-27 04:32:21",
+      "last_seen": "2026-03-27 04:32:51"
+    },
+    "X.K5": {
+      "first_seen": "2026-03-27 14:01:17",
+      "last_seen": "2026-03-28 18:22:24",
+      "joined_bot_date": "2026-03-28"
+    },
+    "el_Doon7_": {
+      "first_seen": "2026-03-27 14:02:05",
+      "last_seen": "2026-03-29 20:30:33"
+    },
+    "Starlin15": {
+      "first_seen": "2026-03-27 14:17:22",
+      "last_seen": "2026-03-27 20:45:44"
+    },
+    "_305": {
+      "first_seen": "2026-03-27 14:23:36",
+      "last_seen": "2026-03-27 14:23:55"
+    },
+    "Ma___ha": {
+      "first_seen": "2026-03-27 14:24:05",
+      "last_seen": "2026-03-27 14:25:40"
+    },
+    "Fatma_1216": {
+      "first_seen": "2026-03-27 14:24:10",
+      "last_seen": "2026-03-27 14:29:49"
+    },
+    "bo8q": {
+      "first_seen": "2026-03-27 14:26:13",
+      "last_seen": "2026-03-27 14:26:49"
+    },
+    "xx2024xx": {
+      "first_seen": "2026-03-27 14:32:47",
+      "last_seen": "2026-03-27 14:33:20"
+    },
+    "m77adbx": {
+      "first_seen": "2026-03-27 14:33:19",
+      "last_seen": "2026-03-27 14:34:07"
+    },
+    "maram0.1": {
+      "first_seen": "2026-03-27 14:46:01",
+      "last_seen": "2026-03-27 14:46:23"
+    },
+    "Q1L._": {
+      "first_seen": "2026-03-27 14:48:31",
+      "last_seen": "2026-03-27 19:03:56"
+    },
+    "C7R_": {
+      "first_seen": "2026-03-27 14:56:20",
+      "last_seen": "2026-03-29 20:45:48"
+    },
+    "B_esso": {
+      "first_seen": "2026-03-27 15:27:37",
+      "joined_bot_date": "2026-03-27",
+      "last_seen": "2026-03-30 00:20:39"
+    },
+    "YMA_N": {
+      "first_seen": "2026-03-27 15:38:07",
+      "last_seen": "2026-03-28 20:36:44"
+    },
+    "vivo5_": {
+      "first_seen": "2026-03-27 16:00:56"
+    },
+    "Vvllx": {
+      "first_seen": "2026-03-27 16:08:37",
+      "joined_bot_date": "2026-03-27"
+    },
+    "_i9Q": {
+      "first_seen": "2026-03-27 16:10:51",
+      "last_seen": "2026-03-27 16:11:05"
+    },
+    "vx_i1": {
+      "first_seen": "2026-03-27 16:15:16",
+      "last_seen": "2026-03-29 22:50:23"
+    },
+    "hyuni_skz": {
+      "first_seen": "2026-03-27 16:48:44",
+      "last_seen": "2026-03-27 19:43:15"
+    },
+    "di_vo_": {
+      "first_seen": "2026-03-27 17:03:21",
+      "joined_bot_date": "2026-03-27",
+      "last_seen": "2026-03-27 18:24:26"
+    },
+    "J9Lp": {
+      "first_seen": "2026-03-27 17:12:16"
+    },
+    "Qpc._": {
+      "first_seen": "2026-03-27 17:14:07",
+      "last_seen": "2026-03-27 17:14:30"
+    },
+    "4.2r": {
+      "first_seen": "2026-03-27 18:02:24"
+    },
+    "2M0": {
+      "first_seen": "2026-03-27 18:03:54",
+      "last_seen": "2026-03-27 18:04:04"
+    },
+    "toxicshosho_1": {
+      "first_seen": "2026-03-27 18:19:56",
+      "last_seen": "2026-03-29 15:09:27"
+    },
+    "H.ER0": {
+      "first_seen": "2026-03-27 19:36:17",
+      "last_seen": "2026-03-28 17:22:38"
+    },
+    "A_INFP": {
+      "first_seen": "2026-03-27 19:42:08"
+    },
+    "Mickey_100": {
+      "first_seen": "2026-03-27 19:53:22",
+      "last_seen": "2026-03-28 21:17:37",
+      "joined_bot_date": "2026-03-27"
+    },
+    "mohamesddd3": {
+      "first_seen": "2026-03-27 20:00:25",
+      "last_seen": "2026-03-27 20:00:40"
+    },
+    "m._la": {
+      "first_seen": "2026-03-27 20:05:24"
+    },
+    "bogy36": {
+      "first_seen": "2026-03-27 20:07:37",
+      "last_seen": "2026-03-27 20:08:54"
+    },
+    "Maryam_KIR": {
+      "first_seen": "2026-03-27 20:36:10"
+    },
+    "Mmraa": {
+      "first_seen": "2026-03-27 20:42:02",
+      "last_seen": "2026-03-27 20:42:26"
+    },
+    "damo0_0": {
+      "first_seen": "2026-03-28 13:12:40",
+      "last_seen": "2026-03-28 13:43:26"
+    },
+    "ree_lax": {
+      "first_seen": "2026-03-28 13:31:23",
+      "last_seen": "2026-03-28 13:33:53"
+    },
+    "BAD_____MAN": {
+      "first_seen": "2026-03-28 13:46:30"
+    },
+    "Maro_Semary": {
+      "first_seen": "2026-03-28 13:58:41",
+      "last_seen": "2026-03-28 14:00:03"
+    },
+    "M._ax": {
+      "first_seen": "2026-03-28 14:06:52",
+      "last_seen": "2026-03-28 14:07:44"
+    },
+    "s_t_11": {
+      "first_seen": "2026-03-28 14:11:00",
+      "last_seen": "2026-03-28 14:22:45"
+    },
+    "tommy_.1": {
+      "first_seen": "2026-03-28 14:20:08",
+      "last_seen": "2026-03-28 18:20:21"
+    },
+    "_TI0": {
+      "first_seen": "2026-03-28 14:25:30",
+      "last_seen": "2026-03-28 14:25:52"
+    },
+    "SleepyNas": {
+      "first_seen": "2026-03-28 14:37:09",
+      "last_seen": "2026-03-28 14:37:26"
+    },
+    "ghsoune": {
+      "first_seen": "2026-03-28 15:54:50"
+    },
+    "koko_80_": {
+      "first_seen": "2026-03-28 16:44:52",
+      "last_seen": "2026-03-30 00:15:40"
+    },
+    "joody43": {
+      "first_seen": "2026-03-28 16:44:57",
+      "last_seen": "2026-03-29 17:44:04"
+    },
+    "s__44": {
+      "first_seen": "2026-03-28 16:45:08",
+      "last_seen": "2026-03-28 17:14:32"
+    },
+    "w_e_k_i__": {
+      "first_seen": "2026-03-28 16:46:34",
+      "last_seen": "2026-03-28 16:47:23"
+    },
+    "fwp_": {
+      "first_seen": "2026-03-28 16:46:35"
+    },
+    "_otbxx": {
+      "first_seen": "2026-03-28 16:46:53"
+    },
+    "V0XX39": {
+      "first_seen": "2026-03-28 16:47:04",
+      "last_seen": "2026-03-28 16:47:22"
+    },
+    "I3AS": {
+      "first_seen": "2026-03-28 16:47:31",
+      "last_seen": "2026-03-28 16:47:56"
+    },
+    "mimi_11110": {
+      "first_seen": "2026-03-28 16:47:33",
+      "last_seen": "2026-03-28 16:48:45"
+    },
+    "Babiys": {
+      "first_seen": "2026-03-28 16:48:21"
+    },
+    "O______O123": {
+      "first_seen": "2026-03-28 16:52:10",
+      "last_seen": "2026-03-28 22:27:02"
+    },
+    "7_M_D": {
+      "first_seen": "2026-03-28 16:54:59",
+      "last_seen": "2026-03-28 16:55:39"
+    },
+    "M17Y": {
+      "first_seen": "2026-03-28 16:55:39",
+      "last_seen": "2026-03-28 16:55:49"
+    },
+    "L.U.N.A.R_": {
+      "first_seen": "2026-03-28 16:55:40",
+      "last_seen": "2026-03-28 16:56:07"
+    },
+    "Younes_34": {
+      "first_seen": "2026-03-28 17:01:14",
+      "last_seen": "2026-03-28 17:01:33"
+    },
+    "nodertid": {
+      "first_seen": "2026-03-28 17:01:28",
+      "last_seen": "2026-03-28 17:03:02"
+    },
+    "CIouds_": {
+      "first_seen": "2026-03-28 17:07:15",
+      "last_seen": "2026-03-28 17:07:51"
+    },
+    "level_down": {
+      "first_seen": "2026-03-28 17:07:38"
+    },
+    "S.K_": {
+      "first_seen": "2026-03-28 17:17:17",
+      "last_seen": "2026-03-28 17:21:23"
+    },
+    "N_p5": {
+      "first_seen": "2026-03-28 17:21:43",
+      "last_seen": "2026-03-29 14:37:47"
+    },
+    "SpikedSimplicity": {
+      "first_seen": "2026-03-28 17:22:51",
+      "last_seen": "2026-03-28 17:23:29"
+    },
+    "_ag4": {
+      "first_seen": "2026-03-28 17:33:31",
+      "last_seen": "2026-03-28 17:33:53"
+    },
+    "Its__deda": {
+      "first_seen": "2026-03-28 17:37:59"
+    },
+    "kemo_Tamam": {
+      "first_seen": "2026-03-28 17:40:24",
+      "last_seen": "2026-03-28 17:43:14"
+    },
+    "mi_.ra": {
+      "first_seen": "2026-03-28 18:03:41",
+      "last_seen": "2026-03-28 18:09:08"
+    },
+    "sel_o": {
+      "first_seen": "2026-03-28 18:03:55",
+      "last_seen": "2026-03-28 20:18:57"
+    },
+    "nil_ve": {
+      "first_seen": "2026-03-28 18:04:01",
+      "last_seen": "2026-03-28 18:08:35"
+    },
+    "Eva_ol": {
+      "first_seen": "2026-03-28 18:05:25",
+      "last_seen": "2026-03-28 18:09:25"
+    },
+    "lR0l": {
+      "first_seen": "2026-03-28 18:05:53",
+      "last_seen": "2026-03-28 18:06:09"
+    },
+    "Catherine_97": {
+      "first_seen": "2026-03-28 18:06:10",
+      "last_seen": "2026-03-28 18:07:44"
+    },
+    "69b5": {
+      "first_seen": "2026-03-28 18:08:54",
+      "last_seen": "2026-03-28 18:09:12"
+    },
+    "m____Am": {
+      "first_seen": "2026-03-28 18:20:59"
+    },
+    "KrizaCatSad": {
+      "first_seen": "2026-03-28 20:17:01",
+      "last_seen": "2026-03-29 21:53:47"
+    },
+    "mok_aa": {
+      "first_seen": "2026-03-28 20:21:17",
+      "last_seen": "2026-03-28 20:25:12"
+    },
+    "R._._O": {
+      "first_seen": "2026-03-28 20:25:48"
+    },
+    "brahim64": {
+      "first_seen": "2026-03-28 21:14:23",
+      "last_seen": "2026-03-28 21:15:23"
+    },
+    "DB_1": {
+      "first_seen": "2026-03-29 13:56:37",
+      "last_seen": "2026-03-29 17:10:50",
+      "joined_bot_date": "2026-03-30"
+    },
+    "kio62": {
+      "first_seen": "2026-03-29 14:44:08",
+      "last_seen": "2026-03-29 14:45:05"
+    },
+    "deenaalf": {
+      "first_seen": "2026-03-29 15:36:28",
+      "last_seen": "2026-03-29 15:36:43"
+    },
+    "mimi2083": {
+      "first_seen": "2026-03-29 15:37:49",
+      "last_seen": "2026-03-29 15:38:29"
+    },
+    "Dede511": {
+      "first_seen": "2026-03-29 15:44:10",
+      "last_seen": "2026-03-29 17:01:21"
+    },
+    "XX.X1": {
+      "first_seen": "2026-03-29 15:47:14",
+      "last_seen": "2026-03-29 15:48:27"
+    },
+    "ka7faa": {
+      "first_seen": "2026-03-29 17:11:04",
+      "last_seen": "2026-03-29 17:11:47"
+    },
+    "Y0mn": {
+      "first_seen": "2026-03-29 17:17:18",
+      "last_seen": "2026-03-29 17:17:48"
+    },
+    "9WL_": {
+      "first_seen": "2026-03-29 17:29:54",
+      "last_seen": "2026-03-29 17:30:07"
+    },
+    "_myaw": {
+      "first_seen": "2026-03-29 17:30:54"
+    },
+    "_Hnndo": {
+      "first_seen": "2026-03-29 17:36:38",
+      "last_seen": "2026-03-29 17:36:53"
+    },
+    "MMM_.18": {
+      "first_seen": "2026-03-29 18:10:45",
+      "last_seen": "2026-03-29 18:11:31"
+    },
+    "majdi_alshrfat": {
+      "first_seen": "2026-03-29 18:18:35"
+    },
+    "Nargs___u": {
+      "first_seen": "2026-03-29 20:30:33"
+    },
+    "moka_mok": {
+      "first_seen": "2026-03-29 20:39:09"
+    },
+    "PublicExtradition": {
+      "first_seen": "2026-03-29 20:44:17",
+      "last_seen": "2026-03-29 20:44:55"
+    },
+    "fx.3": {
+      "first_seen": "2026-03-29 20:45:16",
+      "last_seen": "2026-03-29 20:47:20"
+    },
+    "lolo2004_": {
+      "first_seen": "2026-03-29 20:47:04",
+      "last_seen": "2026-03-29 20:47:29"
+    },
+    "XxAJ_xX": {
+      "first_seen": "2026-03-29 21:00:11",
+      "last_seen": "2026-03-29 21:00:40"
+    },
+    "meko_.10": {
+      "first_seen": "2026-03-29 21:10:59",
+      "last_seen": "2026-03-29 21:11:10"
+    },
+    "X__N0": {
+      "first_seen": "2026-03-29 21:47:00",
+      "last_seen": "2026-03-29 21:49:40"
+    },
+    "nesrine2289": {
+      "first_seen": "2026-03-29 22:24:55",
+      "last_seen": "2026-03-29 22:26:09"
+    },
+    "7.R.B": {
+      "first_seen": "2026-03-29 22:26:09"
+    },
+    "AbuReda": {
+      "first_seen": "2026-03-30 15:58:00",
+      "last_seen": "2026-03-30 15:58:39"
+    }
+  },
+  "user_streaks": {
+    "to_xic_": {
+      "streak": 3,
+      "last_seen": "2026-03-29"
+    },
+    "Dimenbbby": {
+      "streak": 2,
+      "last_seen": "2026-03-28"
+    },
+    "M_O.H.A.M.E.D": {
+      "streak": 2,
+      "last_seen": "2026-03-28"
+    },
+    "M_OG": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "osama_A7": {
+      "streak": 1,
+      "last_seen": "2026-03-30"
+    },
+    "N__115": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "BB7r": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "X.K5": {
+      "streak": 2,
+      "last_seen": "2026-03-28"
+    },
+    "el_Doon7_": {
+      "streak": 3,
+      "last_seen": "2026-03-29"
+    },
+    "Starlin15": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "_305": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Ma___ha": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Fatma_1216": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "bo8q": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "xx2024xx": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "m77adbx": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "maram0.1": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Q1L._": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "C7R_": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "B_esso": {
+      "streak": 2,
+      "last_seen": "2026-03-30"
+    },
+    "YMA_N": {
+      "streak": 3,
+      "last_seen": "2026-03-29"
+    },
+    "vivo5_": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Vvllx": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "_i9Q": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "vx_i1": {
+      "streak": 4,
+      "last_seen": "2026-03-30"
+    },
+    "hyuni_skz": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "di_vo_": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "J9Lp": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Qpc._": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "4.2r": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "2M0": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "toxicshosho_1": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "H.ER0": {
+      "streak": 2,
+      "last_seen": "2026-03-28"
+    },
+    "A_INFP": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Mickey_100": {
+      "streak": 2,
+      "last_seen": "2026-03-28"
+    },
+    "mohamesddd3": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "m._la": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "bogy36": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Maryam_KIR": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "Mmraa": {
+      "streak": 1,
+      "last_seen": "2026-03-27"
+    },
+    "damo0_0": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "ree_lax": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "BAD_____MAN": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Maro_Semary": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "M._ax": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "s_t_11": {
+      "streak": 2,
+      "last_seen": "2026-03-29"
+    },
+    "tommy_.1": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "_TI0": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "SleepyNas": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "ghsoune": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "koko_80_": {
+      "streak": 3,
+      "last_seen": "2026-03-30"
+    },
+    "joody43": {
+      "streak": 2,
+      "last_seen": "2026-03-29"
+    },
+    "s__44": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "w_e_k_i__": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "fwp_": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "_otbxx": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "V0XX39": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "I3AS": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "mimi_11110": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Babiys": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "O______O123": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "7_M_D": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "M17Y": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "L.U.N.A.R_": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Younes_34": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "nodertid": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "CIouds_": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "level_down": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "S.K_": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "N_p5": {
+      "streak": 2,
+      "last_seen": "2026-03-29"
+    },
+    "SpikedSimplicity": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "_ag4": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Its__deda": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "kemo_Tamam": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "mi_.ra": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "sel_o": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "nil_ve": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Eva_ol": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "lR0l": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "Catherine_97": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "69b5": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "m____Am": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "KrizaCatSad": {
+      "streak": 2,
+      "last_seen": "2026-03-29"
+    },
+    "mok_aa": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "R._._O": {
+      "streak": 2,
+      "last_seen": "2026-03-29"
+    },
+    "brahim64": {
+      "streak": 1,
+      "last_seen": "2026-03-28"
+    },
+    "DB_1": {
+      "streak": 2,
+      "last_seen": "2026-03-30"
+    },
+    "kio62": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "deenaalf": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "mimi2083": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "Dede511": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "XX.X1": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "ka7faa": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "Y0mn": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "9WL_": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "_myaw": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "_Hnndo": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "MMM_.18": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "majdi_alshrfat": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "Nargs___u": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "moka_mok": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "PublicExtradition": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "fx.3": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "lolo2004_": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "XxAJ_xX": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "meko_.10": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "X__N0": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "nesrine2289": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "7.R.B": {
+      "streak": 1,
+      "last_seen": "2026-03-29"
+    },
+    "AbuReda": {
+      "streak": 1,
+      "last_seen": "2026-03-30"
+    }
+  },
+  "saved_outfits": {
+    "العروسه": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 65
+      },
+      {
+        "id": "shirt-n_chaseitems2024shorttopcandypink",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "skirt-n_room12019pleatedskirtpink",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "sock-n_dailyquestv22024whitestockings",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_dailyquestv22024bowheels",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "necklace-n_dailyquestv22024bownecklace",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "mouth-basic2018openfullround",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018topknotwithbangs",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_dailyquest2024highponywavy",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-n_basic2018dolleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "eyebrow-n_05",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ],
+    "ايمو": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 23
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_registrationavatars2023gothgirlshirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "skirt-n_gothanchorstore2022blackminiskirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_registrationavatars2023gothgirlshoes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_gothanchorstore2022fishnetfulltattoolower",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_registrationavatars2023gothgirlhair",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_registrationavatars2023gothgirlhair",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-n_registrationavatars2023gothgirleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "mouth-n_basic2018puckerthinpeaked",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 40
+      },
+      {
+        "id": "freckle-n_basic2018freckle39",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_08",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "necklace-n_12",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "اميره": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 3
+      },
+      {
+        "id": "hair_front-n_basic2018straightwhispybangs",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 10
+      },
+      {
+        "id": "eyebrow-n_dailyquest2024cutbrows",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "mouth-n_basic2018toothythinpeaked",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 13
+      },
+      {
+        "id": "nose-n_dailyquest2025kireylovereal",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_pastelmallcollection2022pinkmedcorset",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "pants-n_wakeupudcskypass2023ipoppysdreamgirlshorts",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_dailyquestv22024bowheels",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eye-n_salonshop2018instagrameyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 3
+      },
+      {
+        "id": "hair_back-n_hottaketwoudcgrab012024stephanieskysleeksilky",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 10
+      },
+      {
+        "id": "gloves-n_salonshop2018rednails",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_basic2018freckle35",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_basic2018freckle36",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "sock-n_muthurfuthuritduo2023feet",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "tattoo-n_socialmediaitemsapr2025legtattoo",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_basic2018freckle40",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "earrings-n_room12019goldhoops",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "handbag-n_sadspring2020roseofsadness",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "handbag-n_dailyquest2025kireylovewatch",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "hat-n_subscribercontentrecolors2024catspikeearspinkver",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "necklace-n_room12019necklace",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "tattoo-n_hr4release2023fireworktattoo",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ],
+    "برتقانه": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "skirt-n_catvsdogleobubblegrab2022orangeskirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_catvsdogleobubblegrab2022offshoulderleotop",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_registrationavatars2023gymgirleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 24
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 10
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "blush-n_salonshop2018blush",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_friendlymonstersmarchskypass2022friendlyblush",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_08",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 71
+      },
+      {
+        "id": "hair_front-n_basic2018wavylowpart",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 70
+      },
+      {
+        "id": "hair_back-f_17",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 70
+      },
+      {
+        "id": "handbag-n_leodailies19leobuddy",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_leodailies19lionears",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "bag-n_leodailies19liontail",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "glasses-n_leodailies19orangeshades",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_pumpkinboots",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "علق": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_periodromancegrab2021romanceshorthair",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_back-n_periodromancegrab2021romanceshorthair",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_20",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_bastilleday2022lisashirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_subscribercontentrecolors2024pinstripeschainpantswhitever",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_dailyquestv22024spikeyshoes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_julyskypass2022teenagewitcheye",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_sagdailies2019facearrows",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_ytwoksummerbasics2025glassesblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_staffgifts2019android",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "طالب": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 3
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room32019longshortswithsocksblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_starteritems2019maletshirtblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "bag-n_lunarnewyearaltics2024dragonjacket",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018pulledback",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_basic2018afrohighpony",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-n_septskypass2021naturaleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 5
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-basic2018unimpressed",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ],
+    "رودي": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 23
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_septskypass2021naturaleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 5
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle08",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018curlypulledback",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_basic2018curlyhighpony",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "pants-n_eidshop2021blacksalwar",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_eidshop2021colorchangingabaya",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_eidshop2021colorchanginghijab_3",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_eiditems2022niqab",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_17",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 10
+      }
+    ],
+    "امير": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-m_01b",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 7
+      },
+      {
+        "id": "nose-n_03_b",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_07",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "hair_front-m_09",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 6
+      },
+      {
+        "id": "hair_back-n_pococorewards2020magicalundercut",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 6
+      },
+      {
+        "id": "sock-n_starteritems2020whitesocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shirt-n_weddingbubblegrab2022whiteblazershirtopen",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "pants-n_weddingbubblegrab2022whiteslimpants",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_starteritems2018conversewhite",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "glasses-n_registrationavatars2023billieglasses",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows17",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "فلاح": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-m_01b",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 31
+      },
+      {
+        "id": "hair_front-n_malenew04",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 4
+      },
+      {
+        "id": "hair_back-n_malenew04",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 4
+      },
+      {
+        "id": "hat-n_flowergarden2021gardenerhat",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_flowergarden2021gardenfork",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_flowergarden2021paradaiseshirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_flowergarden2021paradaisepants",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_room12019bootsbrown",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows06",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "nose-n_01_b",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-vip_m_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 50
+      }
+    ],
+    "جديد": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 23
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_registrationavatars2023pinkdress",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_underwearstore2021blackspeedo",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "necklace-n_room12019necklace",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_room22019heelspink",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018topknot",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 51
+      },
+      {
+        "id": "hair_back-n_basic2018topknotback",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 51
+      },
+      {
+        "id": "eye-n_basic2018starryeye",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 14
+      },
+      {
+        "id": "eyebrow-n_basic2018newbrows13",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-basic2018unimpressed",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 24
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle40",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_seasonpass2026set3giftsrose",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "ديسكو": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "hair_front-n_earthelementgrab2020greenhighlightsshort",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "hair_back-n_earthelementgrab2020greenhighlightsshort",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eyebrow-n_aprilfoolsinvisible2020eyebrows",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shirt-n_tattoodo2020kickoffgiftshirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "pants-n_julyrubydailies2020rubybaggypants",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eye-n_aprilfoolsinvisible2020eyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_julyrubydailies2020rubysneakers",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "glasses-n_julyrubydailies2020rubyglasses",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "handbag-n_magicrewards2021magicbat",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ],
+    "عفريته": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_back-n_hrideas2025nabqthamadisoncharm",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-halloweenskypass2021ghosthoodie",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "skirt-n_junepicnicudcskypass2023veradollprimaveradaisybottoms",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_octhrsupport2024almond",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "handbag-n_cartooncutiesskypass2022glowingbuddyaccountbound",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "nose-n_octhrsupport2024blushednose",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_octhrsupport2024brashedbrows",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_octhrsupport2024sweetlips",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 13
+      },
+      {
+        "id": "hair_front-n_basic2018straightnobangs",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_friendlymonstersmarchskypass2022friendlyblush",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_earthelementgrab2020naturefeet",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "جولد": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 27
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_amethystdailyrewards2020chainmouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eyes-n_virgo2019virgoamythesteyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "eyebrow-n_02",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "hair_front-n_malenew23",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hair_back-n_malenew23",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "hat-n_novtopazdaily2020topazbuckethat",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shirt-n_novtopazdaily2020jacket",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "pants-n_novtopazdaily2020shorts",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "glasses-n_novtopazdaily2020glasses",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "bag-n_novtopazdaily2020gemaura",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "shoes-n_novtopazdaily2020topazsneacker",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "gloves-n_novtopazdaily2020ring",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      },
+      {
+        "id": "earrings-n_novtopazdaily2020earrings",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ],
+    "مدرسه": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-f_10",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_back-n_muthurfinalgirls2025_finalgirlcut",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "nose-n_01",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_20",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_aprilfoolsinvisible2020mouth",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_seasonpass2025set1femwhiteshirt",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_ytwoksummerbasics2025pantsblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_seasonpass2025set1heelssocks",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_pineapplegrab2021pineapplelids",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_demonacademiaskypass2022demonblindfold",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "سفينار": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018straightpulledback",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 39
+      },
+      {
+        "id": "hair_back-n_hrccwhisperingspiritsgrab2024femhair",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 39
+      },
+      {
+        "id": "nose-n_dailyquest2025kireylovereal",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eye-n_basic2018dolleyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "eyebrow-n_10",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_friendlymonstersmarchskypass2022friendlyblush",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_registrationavatars2023contour",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle22",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "earrings-n_room12019goldhoops",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "sock-n_muthurfuthuritduo2023feet",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_imagepositivity2023thicktorso",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_imagepositivity2023thicklegs",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "tattoo-n_imagepositivity2023thickarms",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "mouth-n_basic2018puckerthinpeaked",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 9
+      },
+      {
+        "id": "necklace-n_room12019necklace",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "dress-f_ramadan19whitedress",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "bag-n_indigenouspeopleday2024poncho",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hat-n_eidshop2021colorchanginghijab_3",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_room22019heelsnude",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      }
+    ],
+    "ويتر": [
+      {
+        "id": "body-flesh",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 3
+      },
+      {
+        "id": "nose-n_dailyquest2025kireylovereal",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "freckle-n_basic2018freckle04",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_dailyquest2025kireylovewatch",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "necklace-n_seasonpass2026set3giftsnecklace",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_front-n_basic2018pulledback",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "tattoo-n_buddypositivity2022maletopmuscle",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "pants-n_room12019formalslacksblack",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shirt-n_dealerredvest",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "shoes-n_seasonpass2025set1classicloafers",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "handbag-n_casualteenskypass2021icedcoffee",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 0
+      },
+      {
+        "id": "hair_back-n_yearoftherabbitbadbungrab2023bun",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "eye-n_animecollection2018bishoneneyes",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 44
+      },
+      {
+        "id": "eyebrow-n_10",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": 1
+      },
+      {
+        "id": "mouth-basic2018openthinpeaked",
+        "amount": 1,
+        "type": "clothing",
+        "active_palette": -1
+      }
+    ]
+  },
+  "saved_positions": {
+    "نزلني": {
+      "x": 2.5,
+      "y": 5.75,
+      "z": 1.5,
+      "facing": "FrontRight"
+    },
+    "وسط": {
+      "x": 13.5,
+      "y": 10.75,
+      "z": 6.0,
+      "facing": "FrontRight"
+    },
+    "تحت": {
+      "x": 1.0,
+      "y": 4.850000381469727,
+      "z": 1.5,
+      "facing": "FrontLeft"
+    },
+    "vip": {
+      "x": 1.5,
+      "y": 16.0,
+      "z": 7.5,
+      "facing": "FrontRight"
+    },
+    "فوق": {
+      "x": 13.5,
+      "y": 11.0,
+      "z": 28.5,
+      "facing": "FrontRight"
+    }
+  },
+  "radio_tickets": {
+    "x.k5": 9,
+    "vx_i1": 100,
+    "mickey_100": 88,
+    "majdi_alshrfat": 10
+  }
+}
