@@ -22,9 +22,17 @@ try:
 except: pass
 
 # ==================== RADIO SERVER CONFIG ====================
-RADIO_API_URL = "http://localhost:8080"
+# Priority: RADIO_API_URL env var → Replit dev domain → localhost
 _dev_domain = os.environ.get("REPLIT_DEV_DOMAIN", "")
-RADIO_STREAM_URL = f"https://{_dev_domain}/api/radio/stream" if _dev_domain else "http://localhost:8080/api/radio/stream"
+_env_radio = os.environ.get("RADIO_API_URL", "").strip().rstrip("/")
+if _env_radio:
+    RADIO_API_URL = _env_radio
+elif _dev_domain:
+    RADIO_API_URL = f"https://{_dev_domain}"
+else:
+    RADIO_API_URL = "http://localhost:8080"
+RADIO_STREAM_URL = f"{RADIO_API_URL}/api/radio/stream"
+print(f"[RADIO] API URL: {RADIO_API_URL}")
 # ============================================================
 
 
