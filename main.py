@@ -2676,7 +2676,7 @@ class MyBot(BaseBot):
                 is_emote_name = True
             
             is_any_cmd = is_start_cmd or is_digit or is_emote_name or msg_lower in ["stop", "stop emote"]
-            bypass_cmds = ["!menu", "!setting", "!help", "!ping", "emotelist", "!stop", "stop", "stop emote", "!stop emote", "!flash", "!mytickets", "!تذاكري", "!تذكرتي", "!رصيدي", "!radio", "!راديو", "!مكانك", "مكانك", "!موقفك", "موقفك", "!p ", "!q", "!queue", "!s", "كف", "!list", "!yes", "!no", "!اه", "!نعم", "!ايوه", "!لا", "!la", "!الغاء", "!إلغاء", "!mex"]
+            bypass_cmds = ["!menu", "!setting", "!help", "!ping", "emotelist", "!stop", "stop", "stop emote", "!stop emote", "!flash", "!mytickets", "!تذاكري", "!تذكرتي", "!رصيدي", "!radio", "!راديو", "!مكانك", "مكانك", "!موقفك", "موقفك", "!p ", "!q", "!queue", "!s", "كف", "!list", "!yes", "!no", "!اه", "!نعم", "!ايوه", "!لا", "!la", "!الغاء", "!إلغاء", "!mex", "!جاسوس", "!spy", "!كشف", "!reveal", "!صراحة", "!صراحه", "!truth", "!جرأة", "!جراءه", "!جراه", "!dare", "!سرعة", "!سرعه", "!speed", "!سؤال", "!سوال", "!quiz", "!games", "!ألعاب", "!العاب"]
             if msg_lower.startswith("h ") and (user.username in self.OWNERS or user.username in self.admins):
                 bypass_cmds.append("h ")
             
@@ -3040,6 +3040,203 @@ class MyBot(BaseBot):
                 except Exception:
                     pass
                 return
+
+            # ============================================================
+            # ============== 🎮 GAMES SECTION 🎮 =========================
+            # ============================================================
+            # Lazy-init game state
+            if not hasattr(self, "_games_init"):
+                self._games_init = True
+                self.spy_game = None          # {"word": str, "spy": username, "players": [usernames], "host": username}
+                self.speed_game = None        # {"word": str, "host": username, "started_at": float}
+                self.quiz_game = None         # {"question": str, "answer": str, "host": username, "started_at": float}
+                self.SPY_WORDS = [
+                    "مدرسة", "مستشفى", "مطار", "شاطئ", "ملعب كرة", "سينما", "مطعم",
+                    "حديقة حيوان", "بنك", "فندق", "صيدلية", "مكتبة", "محطة قطار",
+                    "سوبر ماركت", "صالون حلاقة", "نادي رياضي", "كافيه", "متحف",
+                    "محطة بنزين", "مصنع", "مزرعة", "كنيسة", "جامع", "قصر", "كهف",
+                    "غابة", "صحراء", "جبل", "نهر", "بحر"
+                ]
+                self.TRUTH_QS = [
+                    "إيه أكتر حاجة بتخاف منها؟",
+                    "مين أول حد عجبك في الروم دي؟",
+                    "إيه أكبر سر بتخفيه عن أهلك؟",
+                    "لو لازم تسيب الهايرايز يوم، هتعمل إيه؟",
+                    "أكتر موقف محرج حصلك إيه؟",
+                    "بتحب مين هنا أكتر واحد؟",
+                    "إيه آخر كدبة قلتها؟",
+                    "لو معاك مليون جنيه هتعمل بيهم إيه؟",
+                    "إيه أغبى حاجة عملتها في حياتك؟",
+                    "مين الشخص اللي مش طايقه في الروم؟ (من غير ما تقول اسم 😅)",
+                    "بتحلم بإيه دايماً؟",
+                    "آخر مرة عيطت فيها كانت إمتى وليه؟"
+                ]
+                self.DARE_QS = [
+                    "ابعت رسالة حب لأي حد في الروم 💌",
+                    "اعمل رقصة dance-tiktok2 قدام الكل 💃",
+                    "غير اسمك لمدة دقيقة لـ 'أنا أحبك يا بوت' 🤖",
+                    "اكتب 5 إيموجي قلب متتالية ❤️❤️❤️❤️❤️",
+                    "قول شعر غزل لأي حد في الروم 📝",
+                    "اعمل emote-pose7 وفضل واقف دقيقة 🧍",
+                    "اكتب أغنية وانت بتغنيها في الشات 🎤",
+                    "قول 'أنا أجمل واحد/واحدة في الروم' 3 مرات 😎",
+                    "اعمل dance-blackpink قدام الكل 🕺",
+                    "هس مين الجاسوس اللي في الروم 🕵️",
+                    "اعمل صوت حيوان في الشات 🐱",
+                    "قل 3 صفات عن نفسك أمام الجميع ✨"
+                ]
+                self.QUIZ_BANK = [
+                    ("ما هي عاصمة مصر؟", "القاهرة"),
+                    ("كم عدد قارات العالم؟", "7"),
+                    ("ما هو أكبر محيط في العالم؟", "الهادي"),
+                    ("ما هو أطول نهر في العالم؟", "النيل"),
+                    ("كم عدد ألوان قوس قزح؟", "7"),
+                    ("ما هو الكوكب الأحمر؟", "المريخ"),
+                    ("من اخترع المصباح الكهربائي؟", "اديسون"),
+                    ("ما هي عاصمة فرنسا؟", "باريس"),
+                    ("كم عدد أيام السنة الكبيسة؟", "366"),
+                    ("ما هو أصغر كوكب في المجموعة الشمسية؟", "عطارد"),
+                    ("ما هي أكبر قارة في العالم؟", "آسيا"),
+                    ("كم عدد لاعبي كرة القدم في الفريق؟", "11"),
+                    ("ما اسم البحر بين مصر والسعودية؟", "الاحمر"),
+                    ("في أي عام بدأت الحرب العالمية الثانية؟", "1939"),
+                    ("ما هو معدن الذهب رمزه الكيميائي؟", "au")
+                ]
+                self.SPEED_WORDS = [
+                    "نجم", "قمر", "شمس", "بحر", "كتاب", "قلم", "وردة", "عصفور",
+                    "سحابة", "مطر", "ثلج", "نار", "ضوء", "طريق", "جسر", "حقل",
+                    "غيمة", "نسمة", "حلم", "أمل", "فرحة", "سلام"
+                ]
+
+            # ----- !games / !ألعاب : Show all games help -----
+            if msg_lower in ("!games", "!ألعاب", "!العاب"):
+                games_help = (
+                    "🎮 <#FF69B4>قائمة الألعاب 🎮\n"
+                    "🕵️ !جاسوس → لعبة الجاسوس (محتاج 3+ لاعبين)\n"
+                    "🔓 !كشف → كشف الجاسوس وانهاء اللعبة\n"
+                    "💬 !صراحة → سؤال صراحة عشوائي\n"
+                    "🔥 !جرأة → تحدي جرأة عشوائي\n"
+                    "⚡ !سرعة → أول واحد يكتب الكلمة يكسب\n"
+                    "❓ !سؤال → سؤال معلومات عامة"
+                )
+                await self.highrise.chat(games_help)
+                return
+
+            # ----- !جاسوس / !spy : Spy game -----
+            if msg_lower in ("!جاسوس", "!spy"):
+                if self.spy_game is not None:
+                    await self.highrise.chat(f"⚠️ في لعبة جاسوس شغالة فعلاً! اكتب !كشف عشان تخلصها.")
+                    return
+                room_users = (await self.highrise.get_room_users()).content
+                players = [r_user for r_user, _ in room_users if r_user.id != getattr(self, "bot_id", None)]
+                if len(players) < 3:
+                    await self.highrise.chat("❌ محتاج 3 لاعبين على الأقل عشان تلعب الجاسوس!")
+                    return
+                word = random.choice(self.SPY_WORDS)
+                spy = random.choice(players)
+                self.spy_game = {
+                    "word": word,
+                    "spy": spy.username,
+                    "players": [p.username for p in players],
+                    "host": user.username
+                }
+                for p in players:
+                    try:
+                        if p.username == spy.username:
+                            await self.highrise.send_whisper(p.id, "🕵️ <#FF0000>أنت الجاسوس! حاول تخمن الكلمة من اللي اللاعبين بيقولوه ✨")
+                        else:
+                            await self.highrise.send_whisper(p.id, f"🤫 <#00FF00>الكلمة السرية: <#FFFF00>{word}\n💡 لا تقولها صريحة! وصفها ولاقي الجاسوس!")
+                    except Exception:
+                        pass
+                await self.highrise.chat(f"🎮 <#FF69B4>بدأت لعبة الجاسوس! 🕵️\n👥 {len(players)} لاعبين | كل واحد شوف الهمس\n📢 وصفوا الكلمة من غير ما تقولوها صريحة\n🔚 اكتب !كشف لكشف الجاسوس")
+                return
+
+            if msg_lower in ("!كشف", "!reveal"):
+                if not self.spy_game:
+                    await self.highrise.chat("⚠️ مفيش لعبة جاسوس شغالة دلوقتي.")
+                    return
+                if user.username not in (self.spy_game["host"], *self.OWNERS, *self.ADMINS):
+                    await self.highrise.chat(f"❌ بس صاحب اللعبة @{self.spy_game['host']} يقدر يكشف!")
+                    return
+                spy = self.spy_game["spy"]
+                word = self.spy_game["word"]
+                self.spy_game = None
+                await self.highrise.chat(f"🕵️ <#FF0000>الجاسوس كان: @{spy}\n🔑 الكلمة كانت: <#FFFF00>{word}")
+                return
+
+            # ----- !صراحة / !truth -----
+            if msg_lower in ("!صراحة", "!صراحه", "!truth"):
+                q = random.choice(self.TRUTH_QS)
+                await self.highrise.chat(f"🎯 <#00BFFF>صراحة لـ @{user.username}:\n💬 {q}")
+                return
+
+            # ----- !جرأة / !dare -----
+            if msg_lower in ("!جرأة", "!جراءه", "!جراه", "!dare"):
+                d = random.choice(self.DARE_QS)
+                await self.highrise.chat(f"🔥 <#FF4500>تحدي جرأة لـ @{user.username}:\n⚡ {d}")
+                return
+
+            # ----- !سرعة / !speed : Speed challenge -----
+            if msg_lower in ("!سرعة", "!سرعه", "!speed"):
+                if self.speed_game is not None:
+                    await self.highrise.chat("⚠️ في تحدي سرعة شغال! خلصوه الأول.")
+                    return
+                word = random.choice(self.SPEED_WORDS)
+                self.speed_game = {"word": word, "host": user.username, "started_at": time.time()}
+                await self.highrise.chat(f"⚡ <#FFD700>تحدي السرعة! 🏃\n📝 أول واحد يكتب الكلمة دي يكسب:\n👉 <#FF1493>{word}")
+                async def speed_timeout():
+                    await asyncio.sleep(30)
+                    if self.speed_game and self.speed_game.get("word") == word:
+                        self.speed_game = None
+                        await self.highrise.chat(f"⏰ خلص الوقت! محدش كتب '{word}' 😢")
+                asyncio.create_task(speed_timeout())
+                return
+
+            # Speed game answer check
+            if self.speed_game and msg_lower.strip() == self.speed_game["word"].lower():
+                winner = user.username
+                word = self.speed_game["word"]
+                self.speed_game = None
+                await self.highrise.chat(f"🏆 <#00FF00>@{winner} كسب تحدي السرعة! ⚡\n✅ كلمة '{word}' صح!")
+                try:
+                    await self.highrise.send_emote("emote-celebrate", user.id)
+                except Exception:
+                    pass
+                return
+
+            # ----- !سؤال / !quiz : Q&A Trivia -----
+            if msg_lower in ("!سؤال", "!سوال", "!quiz"):
+                if self.quiz_game is not None:
+                    await self.highrise.chat("⚠️ في سؤال شغال! جاوبوا الأول.")
+                    return
+                q, a = random.choice(self.QUIZ_BANK)
+                self.quiz_game = {"question": q, "answer": a.lower(), "host": user.username, "started_at": time.time()}
+                await self.highrise.chat(f"❓ <#9370DB>سؤال:\n📚 {q}\n💡 أول إجابة صح تكسب! (عندك 45 ثانية)")
+                async def quiz_timeout():
+                    await asyncio.sleep(45)
+                    if self.quiz_game and self.quiz_game.get("answer") == a.lower():
+                        self.quiz_game = None
+                        await self.highrise.chat(f"⏰ خلص الوقت! الإجابة الصحيحة: <#00FF00>{a}")
+                asyncio.create_task(quiz_timeout())
+                return
+
+            # Quiz answer check
+            if self.quiz_game:
+                guess = msg_lower.strip().replace("ال", "").strip()
+                correct = self.quiz_game["answer"].replace("ال", "").strip()
+                if guess == correct or msg_lower.strip() == self.quiz_game["answer"]:
+                    winner = user.username
+                    ans = self.quiz_game["answer"]
+                    self.quiz_game = None
+                    await self.highrise.chat(f"🎉 <#00FF00>@{winner} جاوب صح! ✅\n📖 الإجابة: {ans}")
+                    try:
+                        await self.highrise.send_emote("emote-celebrate", user.id)
+                    except Exception:
+                        pass
+                    return
+            # ============================================================
+            # ============= END OF GAMES SECTION =========================
+            # ============================================================
 
             if msg_lower.startswith("!transport"):
                 if user.username in self.OWNERS:
